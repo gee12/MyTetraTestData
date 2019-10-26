@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="1" icon="" id="15576541176s451inwvp" name="UkM1U0lNUAMDZCeA0Ot3tc2H164VS0VAUFBFMLQonqPHGftiYmXnk9F0a4t/FekC">
+   <recordtable>
+    <record id="1557654126ex5tx903jr" name="UkM1U0lNUANtXeiQSC2IQHLlIuTAsGOx/GXB+9pAPvmh2GS+qwc4hBPDVjv8xN4n7aFWuAGFo+g=" author="" url="" tags="" ctime="20190512124206" dir="1557654126nn8db6ohrs" file="text.html" crypt="1">
+     <files>
+      <file id="15576541340uoo7fucc1" fileName="UkM1U0lNUAP4+A1X49dikkpj6Mi03Uf3R2cP6riTbEpcbD9qVLpzaAftEGswmX2t5h6P5ABsZFux4yKRNx1Cfw==" type="file" crypt="1"/>
+      <file id="1572075395j5o02xmck8" fileName="UkM1U0lNUAN7TsTsto5rsCzi+qnim7Mkbkww0KpQ3dkAd8U1Ar7sRMV8jG98NwwuWX5JvxQD7khxXXD6Fjyzpw==" type="file" crypt="1"/>
+      <file id="1572075395e8w2qrtitr" fileName="UkM1U0lNUAMnBw0lXxETcp3ERJKjD7Ta2SqTHwBb1CzMoMwL1irefXooywWBfXOTcDRH8gwQojj6nLtYrKbEfQ==" type="file" crypt="1"/>
+      <file id="1572075403l04ggk1f65" fileName="UkM1U0lNUAMoMx3AWqZCNshYHYcwneimQyOKxUewNlCbl5INV9k89hsDL0ZkOpU9pxxO2I18vtnQNN/TYWfRGNAxGtw0uvkYnu8IdnFxmMs=" type="file" crypt="1"/>
+     </files>
+    </record>
+   </recordtable>
+  </node>
+  <node crypt="" icon="" id="1300000000aaaaaaaaa1" name="Корневая1">
+   <recordtable>
+    <record id="1555938078w0j0w25yqi" name="ToggleButton" author="Александр Климов" url="http://developer.alexanderklimov.ru/android/views/togglebutton.php" tags="Android ToggleButton dev,метка1, метка2 , метка3" ctime="20190422160118" dir="1555938078u3o3b2nzoo" file="text.html">
+     <files>
+      <file id="1572074997fcmnyykccm" fileName="Screenshot_2019-04-23-09-43-30.png" type="file"/>
+      <file id="1572075013rapni4a43c" fileName="RC5.java" type="file"/>
+      <file id="1572075231834xzljwn9" fileName="user_guide_ru.pdf" type="file"/>
+      <file id="15720752317f0c2ihc30" fileName="user_guide_ru.odt" type="file"/>
+     </files>
+    </record>
+   </recordtable>
+   <node crypt="" icon="/Gnome/color_gnome_2_edittrash.svg" id="1554803197noavmmbht2" name="Подветка11">
+    <recordtable>
+     <record id="1554803455rfv9azilk7" name="запись 111" author="автор" url="https://yandex.ru" tags="tag1, tag2" ctime="20190409125055" dir="1554803455wx7aipffsm" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" icon="/Gnome/color_gnome_2_dialog-warning.svg" id="1554803203pa00pbe9ov" name="Подветка12 с длинным назв">
+    <recordtable>
+     <record id="1554803534o58g0ch1qt" name="запись 121" author="" url="" tags="" ctime="20190409125214" dir="1554803534frmh4g30gv" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="1" icon="" id="1554803225i5ro9hde3r" name="UkM1U0lNUAMV+oE2ZGR2+1BmC8HSVKmzhjZi2Vsb70+HLTSm+f54Z09wPnnyk6EvZp3o06ziGnNE8uLAXe+YNw==">
+   <recordtable>
+    <record id="1554803666nujshkt6og" name="UkM1U0lNUAOoPAj5Wgk707v6HSfZojWz6Xe3jfjvhyH4qM+Sd2hRQXmjx5p57ZS1elTnK15q49U=" author="" url="" tags="" ctime="20190409125426" dir="1554803666tea6rtn3x9" file="text.html" crypt="1"/>
+   </recordtable>
+   <node crypt="1" icon="" id="1554803239wshprq6hnk" name="UkM1U0lNUANhVQAdX/tw58f8L6+NhBH5iyow0YKTNveaJftsBEXnZzK/0Y2EgFU7+zB3FVtWFXE=">
+    <recordtable>
+     <record id="1554803634c4blsrbv0e" name="UkM1U0lNUAMC67fu5OM3c/P7k9PGr2/ZajOLdljHY9xaGDNDvJO/UZYxy3BIj97ZeQRl82O5Hfipr/ulG9rJUSGTZ3VJ30mDgm+T2qV0nFwOloKCpBKBwiANZt0INwqxg70I3m7efiPdX3c6zgxv3HqFvT0eYvXXlOqKbHGLH6hTmfODVKkFZ8JiuhNGb/YucMUsUAppTU5Uma7gN/liAdhgS5eo+vWLlO6KESvYUcWKGtO5Dk3BJKDJbH5FEFDNtZFydDs1FYUgleIFB21RLJYpccgGjomg" author="UkM1U0lNUAOGaL52EyC+QAzJ9+xSLIx4tBRsE8gAXwSVw4RsZbnHQnic7asZeE7S8+K6PX8DkUw=" url="UkM1U0lNUANjYycBre6S3vaeohj6vWEuuqFEK18nwkloETDX5oHaNIdPHzqJGy0vy8EliGVylK2p9s7btcSUdw==" tags="UkM1U0lNUAMagxrKjT/pnoJEGkuSJA6RSmduHmHqqENofKYGIA2lP+WeOOlvqvy6YdohrfWd3NKrnhy/7ln/Y0jA6CwsTD8eGCrB57ZrqNo=" ctime="20190409125354" dir="1554803634dcwxqwqssk" file="text.html" crypt="1"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="" id="1554803256kl56e13qss" name="Корневая3"/>
+ </content>
+</root>

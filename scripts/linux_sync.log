@@ -1,0 +1,25 @@
+
+26.10.2019 10:43:23 === ===============================================
+26.10.2019 10:43:23 === Changes from Linux
+26.10.2019 10:43:23 === Command "git diff"
+Not a git repository
+To compare two paths outside a working tree:
+usage: git diff [--no-index] <path> <path>
+26.10.2019 10:43:23 === Command "git add ."
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+26.10.2019 10:43:23 === Command "git commit"
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+26.10.2019 10:43:23 === Command "git pull"
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+26.10.2019 10:43:23 === Command "git push"
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+26.10.2019 10:44:12 === ===============================================
+26.10.2019 10:44:12 === Changes from Linux
+26.10.2019 10:44:12 === Command "git diff"
+26.10.2019 10:44:12 === Command "git add ."
+26.10.2019 10:44:15 === Command "git commit"

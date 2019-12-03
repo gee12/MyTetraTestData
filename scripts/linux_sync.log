@@ -284,3 +284,21 @@ fatal: Не удалось прочитать из внешнего репози
 M	scripts/linux_sync.log
 03.12.2019 20:14:10 === Command "git add ."
 03.12.2019 20:14:10 === Command "git commit"
+[master e8e9ffe] Changes from Linux - 03.12.2019\ 20:14:10
+ 1 file changed, 261 insertions(+)
+03.12.2019 20:14:10 === Command "git pull"
+Уже обновлено.
+03.12.2019 20:14:11 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+POST git-receive-pack (3300 bytes)
+To https://github.com/gee12/MyTetraTestData.git
+   eef044e..e8e9ffe  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+03.12.2019 20:15:34 === ===============================================
+03.12.2019 20:15:34 === Changes from Linux
+03.12.2019 20:15:34 === Command "git diff"
+M	database.ini
+M	scripts/linux_sync.log
+03.12.2019 20:15:34 === Command "git add ."
+03.12.2019 20:15:34 === Command "git commit"

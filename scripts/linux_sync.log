@@ -339,3 +339,72 @@ M	mytetra.xml
 M	scripts/linux_sync.log
 03.12.2019 20:21:59 === Command "git add ."
 03.12.2019 20:21:59 === Command "git commit"
+[master 71ef2b1] Changes from Linux - 03.12.2019\ 20:21:59
+ 4 files changed, 37 insertions(+), 9 deletions(-)
+ rewrite base/1554803634dcwxqwqssk/text.html (100%)
+ rewrite base/1554803666tea6rtn3x9/text.html (100%)
+03.12.2019 20:21:59 === Command "git pull"
+Уже обновлено.
+03.12.2019 20:22:00 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+POST git-receive-pack (2936 bytes)
+To https://github.com/gee12/MyTetraTestData.git
+   bf23a63..71ef2b1  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+03.12.2019 21:28:08 === ===============================================
+03.12.2019 21:28:08 === Changes from Linux
+03.12.2019 21:28:08 === Command "git diff"
+D	base/1554803455wx7aipffsm/text.html
+D	base/1554803534frmh4g30gv/image1554803522tmxpcl2tjj.png
+D	base/1554803534frmh4g30gv/text.html
+M	base/1554803634dcwxqwqssk/text.html
+M	base/1554803666tea6rtn3x9/text.html
+M	base/1555938078u3o3b2nzoo/1572074997fcmnyykccm.png
+M	base/1555938078u3o3b2nzoo/1572075013rapni4a43c.java
+M	base/1555938078u3o3b2nzoo/15720752317f0c2ihc30.odt
+M	base/1555938078u3o3b2nzoo/1572075231834xzljwn9.pdf
+M	base/1555938078u3o3b2nzoo/image1555938045vvimkccc0p.png
+M	base/1555938078u3o3b2nzoo/text.html
+M	base/1557654126nn8db6ohrs/15576541340uoo7fucc1.avi
+M	base/1557654126nn8db6ohrs/1572075395e8w2qrtitr.odt
+M	base/1557654126nn8db6ohrs/1572075395j5o02xmck8.pdf
+M	base/1557654126nn8db6ohrs/1572075403l04ggk1f65.png
+M	base/1557654126nn8db6ohrs/image15576543081qsm7i14ai.png
+M	base/1557654126nn8db6ohrs/image15576543086xmkt7mbqb.png
+M	base/1557654126nn8db6ohrs/image15576543087qiiuf22eo.png
+M	base/1557654126nn8db6ohrs/image15576543089cecegwrrt.png
+M	base/1557654126nn8db6ohrs/image1557654308cgbf0k22vs.png
+M	base/1557654126nn8db6ohrs/image1557654308e0v3xkszm6.png
+M	base/1557654126nn8db6ohrs/image1557654308evibcglcn3.png
+M	base/1557654126nn8db6ohrs/image1557654308f2ls5p4c4d.png
+M	base/1557654126nn8db6ohrs/image1557654308foxvqyb81u.png
+M	base/1557654126nn8db6ohrs/image1557654308grz7wm21le.png
+M	base/1557654126nn8db6ohrs/image1557654308gzwn4c7etb.png
+M	base/1557654126nn8db6ohrs/image1557654308h617fjzeln.png
+M	base/1557654126nn8db6ohrs/image1557654308hsyv422jp9.png
+M	base/1557654126nn8db6ohrs/image1557654308i7hf2ntuba.png
+M	base/1557654126nn8db6ohrs/image1557654308jqgrs3pt70.png
+M	base/1557654126nn8db6ohrs/image1557654308jqt90vuxd4.png
+M	base/1557654126nn8db6ohrs/image1557654308js51afgchb.png
+M	base/1557654126nn8db6ohrs/image1557654308kqhgh9k7i7.png
+M	base/1557654126nn8db6ohrs/image1557654308kqvajndwxw.png
+M	base/1557654126nn8db6ohrs/image1557654308lc696uagj2.png
+M	base/1557654126nn8db6ohrs/image1557654308naqumkxiad.png
+M	base/1557654126nn8db6ohrs/image1557654308ngr4nf5iw2.png
+M	base/1557654126nn8db6ohrs/image1557654308nm9h9p11dg.png
+M	base/1557654126nn8db6ohrs/image1557654308oaq9ibz2oj.png
+M	base/1557654126nn8db6ohrs/image1557654308owna595v6o.png
+M	base/1557654126nn8db6ohrs/image1557654308r6021g23id.png
+M	base/1557654126nn8db6ohrs/image1557654308ri7wemg9gu.png
+M	base/1557654126nn8db6ohrs/image1557654308sc32ljxvhr.png
+M	base/1557654126nn8db6ohrs/image1557654308vrowfkveeg.png
+M	base/1557654126nn8db6ohrs/image1557654308vw8u80a9cd.png
+M	base/1557654126nn8db6ohrs/image1557654308wd17o0v1x8.png
+M	base/1557654126nn8db6ohrs/image1557654308x1ecoqz670.png
+M	base/1557654126nn8db6ohrs/image1557654308yfgc8a8k20.png
+M	base/1557654126nn8db6ohrs/text.html
+M	mytetra.xml
+M	scripts/linux_sync.log
+03.12.2019 21:28:08 === Command "git add ."
+03.12.2019 21:28:09 === Command "git commit"

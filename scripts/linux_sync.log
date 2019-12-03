@@ -302,3 +302,20 @@ M	database.ini
 M	scripts/linux_sync.log
 03.12.2019 20:15:34 === Command "git add ."
 03.12.2019 20:15:34 === Command "git commit"
+[master ca9137f] Changes from Linux - 03.12.2019\ 20:15:34
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+03.12.2019 20:15:34 === Command "git pull"
+Уже обновлено.
+03.12.2019 20:15:35 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+POST git-receive-pack (1057 bytes)
+To https://github.com/gee12/MyTetraTestData.git
+   e8e9ffe..ca9137f  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+03.12.2019 20:15:43 === ===============================================
+03.12.2019 20:15:43 === Changes from Linux
+03.12.2019 20:15:43 === Command "git diff"
+M	scripts/linux_sync.log
+03.12.2019 20:15:43 === Command "git add ."
+03.12.2019 20:15:43 === Command "git commit"

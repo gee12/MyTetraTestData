@@ -2,7 +2,7 @@
 
 rem Переменные
 set DATADIR=%1
-set LOGFILE="%DATADIR%/sync/sync.log"
+set LOGFILE="%DATADIR%/scripts/windows_sync.log"
 
 rem Вступление
 echo " ">>%LOGFILE%
@@ -10,7 +10,7 @@ call :log "==============================================="
 call :log "Changes from Windows"
 
 rem Выполнение команд
-call :log "Command 'cd %DATADIR%'"
+rem call :log "Command 'cd %DATADIR%'"
 cd /d %DATADIR%
 
 call :log "Command 'git diff'"

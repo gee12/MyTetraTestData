@@ -15,7 +15,11 @@
   <node crypt="" id="1575396855vv8tiwexhn" name="Простейшие"/>
   <node crypt="0" icon="" id="1554803225i5ro9hde3r" name="Грибы">
    <recordtable>
-    <record id="1554803666nujshkt6og" name="Список угрожаемых видов грибов, водорослей и плауновидных растений" author="" url="" tags="Грибы, МСОП" ctime="20190409125426" dir="1554803666tea6rtn3x9" file="text.html" crypt="0"/>
+    <record id="1554803666nujshkt6og" name="Список угрожаемых видов грибов, водорослей и плауновидных растений" author="" url="" tags="Грибы, МСОП" ctime="20190409125426" dir="1554803666tea6rtn3x9" file="text.html" crypt="0">
+     <files>
+      <file id="1575439412ylcqm9sqjy" fileName="Грибы" type="file"/>
+     </files>
+    </record>
    </recordtable>
   </node>
   <node crypt="" id="1575394172d3p6h9hnj2" name="Растения"/>

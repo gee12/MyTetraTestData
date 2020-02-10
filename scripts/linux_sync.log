@@ -508,3 +508,30 @@ updating local tracking ref 'refs/remotes/origin/master'
 M	scripts/linux_sync.log
 10.02.2020 21:26:59 === Command "git add ."
 10.02.2020 21:26:59 === Command "git commit"
+[master b215586] Changes from Linux - 10.02.2020\ 21:26:59
+ 1 file changed, 100 insertions(+)
+10.02.2020 21:26:59 === Command "git pull"
+Из https://github.com/gee12/MyTetraTestData
+   b4871e1..907ab65  master     -> origin/master
+error: Ваши локальные изменения в указанных файлах будут перезаписаны при слиянии:
+	scripts/linux_sync.log
+Сделайте коммит или спрячьте ваши изменения перед слиянием веток.
+Прерываю
+10.02.2020 21:27:01 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+To https://github.com/gee12/MyTetraTestData.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: не удалось отправить некоторые ссылки в «https://github.com/gee12/MyTetraTestData.git»
+подсказка: Обновления были отклонены, так как верхушка вашей текущей ветки
+подсказка: позади ее внешней части. Заберите и слейте внешние изменения 
+подсказка: (например, с помощью «git pull …») перед повторной попыткой отправки
+подсказка: изменений.
+подсказка: Для дополнительной информации, смотрите «Note about fast-forwards»
+подсказка: в «git push --help».
+
+10.02.2020 21:29:11 === ===============================================
+10.02.2020 21:29:11 === Changes from Linux
+10.02.2020 21:29:11 === Command "git diff"
+M	scripts/linux_sync.log
+10.02.2020 21:29:11 === Command "git add ."
+10.02.2020 21:29:11 === Command "git commit"

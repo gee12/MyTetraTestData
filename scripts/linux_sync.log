@@ -589,3 +589,19 @@ U	.gitignore
 D	.gitignore
 10.02.2020 21:32:47 === Command "git add ."
 10.02.2020 21:32:47 === Command "git commit"
+[master 4b3e714] Changes from Linux - 10.02.2020\ 21:32:47
+10.02.2020 21:32:47 === Command "git pull"
+Уже обновлено.
+10.02.2020 21:32:48 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+POST git-receive-pack (3680 bytes)
+To https://github.com/gee12/MyTetraTestData.git
+   907ab65..4b3e714  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+10.02.2020 21:33:30 === ===============================================
+10.02.2020 21:33:30 === Changes from Linux
+10.02.2020 21:33:30 === Command "git diff"
+M	scripts/linux_sync.log
+10.02.2020 21:33:30 === Command "git add ."
+10.02.2020 21:33:30 === Command "git commit"

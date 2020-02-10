@@ -408,3 +408,103 @@ M	mytetra.xml
 M	scripts/linux_sync.log
 03.12.2019 21:28:08 === Command "git add ."
 03.12.2019 21:28:09 === Command "git commit"
+[master b4871e1] Changes from Linux - 03.12.2019\ 21:28:09
+ 78 files changed, 278 insertions(+), 65 deletions(-)
+ delete mode 100755 base/1554803534frmh4g30gv/image1554803522tmxpcl2tjj.png
+ mode change 100755 => 100644 base/1554803634dcwxqwqssk/text.html
+ create mode 100644 base/1554803666tea6rtn3x9/image15753969132ubvgem83p.png
+ create mode 100644 base/1554803666tea6rtn3x9/image157539691363vpjfafvh.png
+ create mode 100644 base/1554803666tea6rtn3x9/image15753969136uald09q72.png
+ create mode 100644 base/1554803666tea6rtn3x9/image1575396913q4e3qox7c5.png
+ mode change 100755 => 100644 base/1554803666tea6rtn3x9/text.html
+ mode change 100755 => 100644 base/1555938078u3o3b2nzoo/1572074997fcmnyykccm.png
+ mode change 100755 => 100644 base/1555938078u3o3b2nzoo/1572075013rapni4a43c.java
+ mode change 100755 => 100644 base/1555938078u3o3b2nzoo/15720752317f0c2ihc30.odt
+ mode change 100755 => 100644 base/1555938078u3o3b2nzoo/1572075231834xzljwn9.pdf
+ mode change 100755 => 100644 base/1555938078u3o3b2nzoo/image1555938045vvimkccc0p.png
+ mode change 100755 => 100644 base/1555938078u3o3b2nzoo/text.html
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/15576541340uoo7fucc1.avi
+ rewrite base/1557654126nn8db6ohrs/1572075395e8w2qrtitr.odt (98%)
+ mode change 100755 => 100644
+ rewrite base/1557654126nn8db6ohrs/1572075395j5o02xmck8.pdf (98%)
+ mode change 100755 => 100644
+ rewrite base/1557654126nn8db6ohrs/1572075403l04ggk1f65.png (99%)
+ mode change 100755 => 100644
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image15576543081qsm7i14ai.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image15576543086xmkt7mbqb.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image15576543087qiiuf22eo.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image15576543089cecegwrrt.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308cgbf0k22vs.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308e0v3xkszm6.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308evibcglcn3.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308f2ls5p4c4d.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308foxvqyb81u.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308grz7wm21le.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308gzwn4c7etb.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308h617fjzeln.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308hsyv422jp9.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308i7hf2ntuba.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308jqgrs3pt70.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308jqt90vuxd4.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308js51afgchb.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308kqhgh9k7i7.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308kqvajndwxw.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308lc696uagj2.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308naqumkxiad.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308ngr4nf5iw2.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308nm9h9p11dg.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308oaq9ibz2oj.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308owna595v6o.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308r6021g23id.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308ri7wemg9gu.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308sc32ljxvhr.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308vrowfkveeg.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308vw8u80a9cd.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308wd17o0v1x8.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308x1ecoqz670.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308yfgc8a8k20.png
+ rewrite base/1557654126nn8db6ohrs/text.html (98%)
+ mode change 100755 => 100644
+ create mode 100644 base/1575396587ybld0rnv2q/image1575396583dq1ujuulj6.png
+ create mode 100644 base/1575396587ybld0rnv2q/text.html
+ create mode 100644 base/1575396643hneoxot3w8/image1575396634uxxfre6u9o.png
+ create mode 100644 base/1575396643hneoxot3w8/text.html
+ create mode 100644 base/1575397003e4v0reltol/text.html
+ create mode 100644 base/1575397087s5n2clumdf/image1575397073ezmqfd406s.png
+ create mode 100644 base/1575397087s5n2clumdf/text.html
+ create mode 100644 base/1575397168tyoa8lshnb/image15753971575bw8t99ob2.png
+ create mode 100644 base/1575397168tyoa8lshnb/text.html
+ create mode 100644 base/1575397187d0n9dp5nlm/image1575397193ibn50gum3f.png
+ rename base/{1554803534frmh4g30gv => 1575397187d0n9dp5nlm}/text.html (71%)
+ mode change 100755 => 100644
+ create mode 100644 base/1575397228ezybfocoeh/image1575397227wp8o2704kx.png
+ create mode 100644 base/1575397228ezybfocoeh/text.html
+ create mode 100644 base/1575397248dx7nenlze2/image1575397244paw4mrsyvm.png
+ rename base/{1554803455wx7aipffsm => 1575397248dx7nenlze2}/text.html (58%)
+ mode change 100755 => 100644
+ create mode 100644 base/1575397271jgpzavuge7/image15753972714q8ce2fziu.png
+ create mode 100644 base/1575397271jgpzavuge7/text.html
+ create mode 100644 base/1575397328pisbw7bcq4/image1575397327kcapb0lmgz.png
+ create mode 100644 base/1575397328pisbw7bcq4/text.html
+ create mode 100644 base/157539737414be22p84e/image15753973579d6h424fuu.png
+ create mode 100644 base/157539737414be22p84e/text.html
+ create mode 100644 base/1575397415plvfvyxrjo/image1575397414y8j9m1rb9v.png
+ create mode 100644 base/1575397415plvfvyxrjo/text.html
+ create mode 100644 base/1575397560xx7xs0gt4o/text.html
+ create mode 100644 base/1575397589s5nje6zio0/text.html
+ rewrite mytetra.xml (86%)
+03.12.2019 21:28:11 === Command "git pull"
+Уже обновлено.
+03.12.2019 21:28:12 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+POST git-receive-pack (chunked)
+To https://github.com/gee12/MyTetraTestData.git
+   71ef2b1..b4871e1  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+10.02.2020 21:26:59 === ===============================================
+10.02.2020 21:26:59 === Changes from Linux
+10.02.2020 21:26:59 === Command "git diff"
+M	scripts/linux_sync.log
+10.02.2020 21:26:59 === Command "git add ."
+10.02.2020 21:26:59 === Command "git commit"

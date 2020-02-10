@@ -1,0 +1,591 @@
+
+26.10.2019 10:43:23 === ===============================================
+26.10.2019 10:43:23 === Changes from Linux
+26.10.2019 10:43:23 === Command "git diff"
+Not a git repository
+To compare two paths outside a working tree:
+usage: git diff [--no-index] <path> <path>
+26.10.2019 10:43:23 === Command "git add ."
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+26.10.2019 10:43:23 === Command "git commit"
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+26.10.2019 10:43:23 === Command "git pull"
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+26.10.2019 10:43:23 === Command "git push"
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+26.10.2019 10:44:12 === ===============================================
+26.10.2019 10:44:12 === Changes from Linux
+26.10.2019 10:44:12 === Command "git diff"
+26.10.2019 10:44:12 === Command "git add ."
+26.10.2019 10:44:15 === Command "git commit"
+[master (корневой коммит) eef044e] Changes from Linux - 26.10.2019\ 10:44:15
+ 239 files changed, 16042 insertions(+)
+ create mode 100755 base/1554803455wx7aipffsm/text.html
+ create mode 100755 base/1554803534frmh4g30gv/image1554803522tmxpcl2tjj.png
+ create mode 100755 base/1554803534frmh4g30gv/text.html
+ create mode 100755 base/1554803634dcwxqwqssk/text.html
+ create mode 100755 base/1554803666tea6rtn3x9/text.html
+ create mode 100755 base/1555938078u3o3b2nzoo/1572074997fcmnyykccm.png
+ create mode 100755 base/1555938078u3o3b2nzoo/1572075013rapni4a43c.java
+ create mode 100755 base/1555938078u3o3b2nzoo/15720752317f0c2ihc30.odt
+ create mode 100755 base/1555938078u3o3b2nzoo/1572075231834xzljwn9.pdf
+ create mode 100755 base/1555938078u3o3b2nzoo/image1555938045vvimkccc0p.png
+ create mode 100755 base/1555938078u3o3b2nzoo/text.html
+ create mode 100755 base/1557654126nn8db6ohrs/15576541340uoo7fucc1.avi
+ create mode 100755 base/1557654126nn8db6ohrs/1572075395e8w2qrtitr.odt
+ create mode 100755 base/1557654126nn8db6ohrs/1572075395j5o02xmck8.pdf
+ create mode 100755 base/1557654126nn8db6ohrs/1572075403l04ggk1f65.png
+ create mode 100755 base/1557654126nn8db6ohrs/image15576543081qsm7i14ai.png
+ create mode 100755 base/1557654126nn8db6ohrs/image15576543086xmkt7mbqb.png
+ create mode 100755 base/1557654126nn8db6ohrs/image15576543087qiiuf22eo.png
+ create mode 100755 base/1557654126nn8db6ohrs/image15576543089cecegwrrt.png
+ create mode 100755 base/1557654126nn8db6ohrs/image1557654308cgbf0k22vs.png
+ create mode 100755 base/1557654126nn8db6ohrs/image1557654308e0v3xkszm6.png
+ create mode 100755 base/1557654126nn8db6ohrs/image1557654308evibcglcn3.png
+ create mode 100755 base/1557654126nn8db6ohrs/image1557654308f2ls5p4c4d.png
+ create mode 100755 base/1557654126nn8db6ohrs/image1557654308foxvqyb81u.png
+ create mode 100755 base/1557654126nn8db6ohrs/image1557654308grz7wm21le.png
+ create mode 100755 base/1557654126nn8db6ohrs/image1557654308gzwn4c7etb.png
+ create mode 100755 base/1557654126nn8db6ohrs/image1557654308h617fjzeln.png
+ create mode 100755 base/1557654126nn8db6ohrs/image1557654308hsyv422jp9.png
+ create mode 100755 base/1557654126nn8db6ohrs/image1557654308i7hf2ntuba.png
+ create mode 100755 base/1557654126nn8db6ohrs/image1557654308jqgrs3pt70.png
+ create mode 100755 base/1557654126nn8db6ohrs/image1557654308jqt90vuxd4.png
+ create mode 100755 base/1557654126nn8db6ohrs/image1557654308js51afgchb.png
+ create mode 100755 base/1557654126nn8db6ohrs/image1557654308kqhgh9k7i7.png
+ create mode 100755 base/1557654126nn8db6ohrs/image1557654308kqvajndwxw.png
+ create mode 100755 base/1557654126nn8db6ohrs/image1557654308lc696uagj2.png
+ create mode 100755 base/1557654126nn8db6ohrs/image1557654308naqumkxiad.png
+ create mode 100755 base/1557654126nn8db6ohrs/image1557654308ngr4nf5iw2.png
+ create mode 100755 base/1557654126nn8db6ohrs/image1557654308nm9h9p11dg.png
+ create mode 100755 base/1557654126nn8db6ohrs/image1557654308oaq9ibz2oj.png
+ create mode 100755 base/1557654126nn8db6ohrs/image1557654308owna595v6o.png
+ create mode 100755 base/1557654126nn8db6ohrs/image1557654308r6021g23id.png
+ create mode 100755 base/1557654126nn8db6ohrs/image1557654308ri7wemg9gu.png
+ create mode 100755 base/1557654126nn8db6ohrs/image1557654308sc32ljxvhr.png
+ create mode 100755 base/1557654126nn8db6ohrs/image1557654308vrowfkveeg.png
+ create mode 100755 base/1557654126nn8db6ohrs/image1557654308vw8u80a9cd.png
+ create mode 100755 base/1557654126nn8db6ohrs/image1557654308wd17o0v1x8.png
+ create mode 100755 base/1557654126nn8db6ohrs/image1557654308x1ecoqz670.png
+ create mode 100755 base/1557654126nn8db6ohrs/image1557654308yfgc8a8k20.png
+ create mode 100755 base/1557654126nn8db6ohrs/text.html
+ create mode 100755 database.ini
+ create mode 100755 icons/Gnome/color_gnome_2_3floppy_unmount.svg
+ create mode 100755 icons/Gnome/color_gnome_2_accessibility-directory.svg
+ create mode 100755 icons/Gnome/color_gnome_2_accessories-calculator.svg
+ create mode 100755 icons/Gnome/color_gnome_2_accessories-dictionary.svg
+ create mode 100755 icons/Gnome/color_gnome_2_accessories-text-editor.svg
+ create mode 100755 icons/Gnome/color_gnome_2_add.svg
+ create mode 100755 icons/Gnome/color_gnome_2_address-book-new.svg
+ create mode 100755 icons/Gnome/color_gnome_2_application-certificate.svg
+ create mode 100755 icons/Gnome/color_gnome_2_application-x-executable.svg
+ create mode 100755 icons/Gnome/color_gnome_2_application-x-gnome-saved-search.svg
+ create mode 100755 icons/Gnome/color_gnome_2_applications-accessories.svg
+ create mode 100755 icons/Gnome/color_gnome_2_applications-development.svg
+ create mode 100755 icons/Gnome/color_gnome_2_applications-games.svg
+ create mode 100755 icons/Gnome/color_gnome_2_applications-graphics.svg
+ create mode 100755 icons/Gnome/color_gnome_2_applications-internet.svg
+ create mode 100755 icons/Gnome/color_gnome_2_applications-multimedia.svg
+ create mode 100755 icons/Gnome/color_gnome_2_applications-office.svg
+ create mode 100755 icons/Gnome/color_gnome_2_applications-other.svg
+ create mode 100755 icons/Gnome/color_gnome_2_applications-science.svg
+ create mode 100755 icons/Gnome/color_gnome_2_applications-system.svg
+ create mode 100755 icons/Gnome/color_gnome_2_appointment-missed.svg
+ create mode 100755 icons/Gnome/color_gnome_2_appointment-soon.svg
+ create mode 100755 icons/Gnome/color_gnome_2_arts.svg
+ create mode 100755 icons/Gnome/color_gnome_2_ascii.svg
+ create mode 100755 icons/Gnome/color_gnome_2_audio-input-microphone.svg
+ create mode 100755 icons/Gnome/color_gnome_2_audio-volume-high.svg
+ create mode 100755 icons/Gnome/color_gnome_2_audio-volume-low.svg
+ create mode 100755 icons/Gnome/color_gnome_2_audio-volume-muted.svg
+ create mode 100755 icons/Gnome/color_gnome_2_audio-x-generic.svg
+ create mode 100755 icons/Gnome/color_gnome_2_back.svg
+ create mode 100755 icons/Gnome/color_gnome_2_background.svg
+ create mode 100755 icons/Gnome/color_gnome_2_battery.svg
+ create mode 100755 icons/Gnome/color_gnome_2_bookmark_add.svg
+ create mode 100755 icons/Gnome/color_gnome_2_bottom.svg
+ create mode 100755 icons/Gnome/color_gnome_2_camera-photo.svg
+ create mode 100755 icons/Gnome/color_gnome_2_camera-web.svg
+ create mode 100755 icons/Gnome/color_gnome_2_cdrom_unmount.svg
+ create mode 100755 icons/Gnome/color_gnome_2_centrejust.svg
+ create mode 100755 icons/Gnome/color_gnome_2_chardevice.svg
+ create mode 100755 icons/Gnome/color_gnome_2_computer.svg
+ create mode 100755 icons/Gnome/color_gnome_2_config-language.svg
+ create mode 100755 icons/Gnome/color_gnome_2_config-users.svg
+ create mode 100755 icons/Gnome/color_gnome_2_connect_creating.svg
+ create mode 100755 icons/Gnome/color_gnome_2_connect_no.svg
+ create mode 100755 icons/Gnome/color_gnome_2_contact-new.svg
+ create mode 100755 icons/Gnome/color_gnome_2_contents2.svg
+ create mode 100755 icons/Gnome/color_gnome_2_deb.svg
+ create mode 100755 icons/Gnome/color_gnome_2_desktop.svg
+ create mode 100755 icons/Gnome/color_gnome_2_dialog-error.svg
+ create mode 100755 icons/Gnome/color_gnome_2_dialog-information.svg
+ create mode 100755 icons/Gnome/color_gnome_2_dialog-warning.svg
+ create mode 100755 icons/Gnome/color_gnome_2_distributor-logo.svg
+ create mode 100755 icons/Gnome/color_gnome_2_document-new.svg
+ create mode 100755 icons/Gnome/color_gnome_2_document-open.svg
+ create mode 100755 icons/Gnome/color_gnome_2_document-print-preview.svg
+ create mode 100755 icons/Gnome/color_gnome_2_document-print.svg
+ create mode 100755 icons/Gnome/color_gnome_2_document-properties.svg
+ create mode 100755 icons/Gnome/color_gnome_2_document-revert.svg
+ create mode 100755 icons/Gnome/color_gnome_2_document-save-as.svg
+ create mode 100755 icons/Gnome/color_gnome_2_document-save.svg
+ create mode 100755 icons/Gnome/color_gnome_2_document.svg
+ create mode 100755 icons/Gnome/color_gnome_2_down.svg
+ create mode 100755 icons/Gnome/color_gnome_2_drive-cdrom.svg
+ create mode 100755 icons/Gnome/color_gnome_2_drive-harddisk.svg
+ create mode 100755 icons/Gnome/color_gnome_2_drive-removable-media.svg
+ create mode 100755 icons/Gnome/color_gnome_2_edit-cut.svg
+ create mode 100755 icons/Gnome/color_gnome_2_edit-delete.svg
+ create mode 100755 icons/Gnome/color_gnome_2_edit-find-replace.svg
+ create mode 100755 icons/Gnome/color_gnome_2_edit-find.svg
+ create mode 100755 icons/Gnome/color_gnome_2_edit-paste.svg
+ create mode 100755 icons/Gnome/color_gnome_2_edit-redo.svg
+ create mode 100755 icons/Gnome/color_gnome_2_edit-select-all.svg
+ create mode 100755 icons/Gnome/color_gnome_2_edit-undo.svg
+ create mode 100755 icons/Gnome/color_gnome_2_edittrash.svg
+ create mode 100755 icons/Gnome/color_gnome_2_emblem-cvs-added.svg
+ create mode 100755 icons/Gnome/color_gnome_2_emblem-cvs-conflict.svg
+ create mode 100755 icons/Gnome/color_gnome_2_emblem-cvs-removed.svg
+ create mode 100755 icons/Gnome/color_gnome_2_emblem-default.svg
+ create mode 100755 icons/Gnome/color_gnome_2_emblem-favorite.svg
+ create mode 100755 icons/Gnome/color_gnome_2_emblem-generic.svg
+ create mode 100755 icons/Gnome/color_gnome_2_emblem-important.svg
+ create mode 100755 icons/Gnome/color_gnome_2_emblem-mail.svg
+ create mode 100755 icons/Gnome/color_gnome_2_emblem-new.svg
+ create mode 100755 icons/Gnome/color_gnome_2_emblem-package.svg
+ create mode 100755 icons/Gnome/color_gnome_2_emblem-special.svg
+ create mode 100755 icons/Gnome/color_gnome_2_emblem-symbolic-link.svg
+ create mode 100755 icons/Gnome/color_gnome_2_emblem-urgent.svg
+ create mode 100755 icons/Gnome/color_gnome_2_emblem-web.svg
+ create mode 100755 icons/Gnome/color_gnome_2_emptytrash.svg
+ create mode 100755 icons/Gnome/color_gnome_2_file-manager.svg
+ create mode 100755 icons/Gnome/color_gnome_2_finish.svg
+ create mode 100755 icons/Gnome/color_gnome_2_folder-drag-accept.svg
+ create mode 100755 icons/Gnome/color_gnome_2_folder-remote.svg
+ create mode 100755 icons/Gnome/color_gnome_2_folder-visiting.svg
+ create mode 100755 icons/Gnome/color_gnome_2_folder.svg
+ create mode 100755 icons/Gnome/color_gnome_2_folder_home.svg
+ create mode 100755 icons/Gnome/color_gnome_2_folder_new.svg
+ create mode 100755 icons/Gnome/color_gnome_2_folder_open.svg
+ create mode 100755 icons/Gnome/color_gnome_2_font_bitmap.svg
+ create mode 100755 icons/Gnome/color_gnome_2_fonts.svg
+ create mode 100755 icons/Gnome/color_gnome_2_format-justify-fill.svg
+ create mode 100755 icons/Gnome/color_gnome_2_forward.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-control-center.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-dev-ipod.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-dev-keyboard.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-dev-media-cf.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-dev-mouse-ball.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-dev-printer.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-fs-loading-icon.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-fs-network.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-fs-regular.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-fs-server.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-help.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-lockscreen.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-mime-application-magicpoint.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-mime-application-vnd.lotus-1-2-3.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-mime-application-vnd.oasis.opendocument.graphics.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-mime-application-vnd.oasis.opendocument.text-web.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-mime-application-vnd.rn-realmedia-secure.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-mime-application-x-killustrator.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-mime-application-x-perl.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-mime-text-x-vcalendar.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-modem.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-monitor.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-netstatus-error.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-remote-desktop.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-run.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-settings-keybindings.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-settings-theme.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-shutdown.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-terminal.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gnome-window-manager.svg
+ create mode 100755 icons/Gnome/color_gnome_2_go-first.svg
+ create mode 100755 icons/Gnome/color_gnome_2_go-home.svg
+ create mode 100755 icons/Gnome/color_gnome_2_go-top.svg
+ create mode 100755 icons/Gnome/color_gnome_2_go-up.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gtk-fullscreen.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gtk-remove.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gtk-sort-ascending.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gtk-sort-descending.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gtk-stop.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gtk-zoom-100.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gtk-zoom-fit.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gtk-zoom-in.svg
+ create mode 100755 icons/Gnome/color_gnome_2_gtk-zoom-out.svg
+ create mode 100755 icons/Gnome/color_gnome_2_help-faq.svg
+ create mode 100755 icons/Gnome/color_gnome_2_im-aim.svg
+ create mode 100755 icons/Gnome/color_gnome_2_im-icq.svg
+ create mode 100755 icons/Gnome/color_gnome_2_im-jabber.svg
+ create mode 100755 icons/Gnome/color_gnome_2_im-msn.svg
+ create mode 100755 icons/Gnome/color_gnome_2_im-nov.svg
+ create mode 100755 icons/Gnome/color_gnome_2_im-yahoo.svg
+ create mode 100755 icons/Gnome/color_gnome_2_input-tablet.svg
+ create mode 100755 icons/Gnome/color_gnome_2_insert-image.svg
+ create mode 100755 icons/Gnome/color_gnome_2_insert-link.svg
+ create mode 100755 icons/Gnome/color_gnome_2_insert-text.svg
+ create mode 100755 icons/Gnome/color_gnome_2_kscreensaver.svg
+ create mode 100755 icons/Gnome/color_gnome_2_logviewer.svg
+ create mode 100755 icons/Gnome/color_gnome_2_mail-attachment.svg
+ create mode 100755 icons/Gnome/color_gnome_2_media-eject.svg
+ create mode 100755 icons/Gnome/color_gnome_2_media-tape.svg
+ create mode 100755 icons/Gnome/color_gnome_2_object-flip-horizontal.svg
+ create mode 100755 icons/Gnome/color_gnome_2_object-flip-vertical.svg
+ create mode 100755 icons/Gnome/color_gnome_2_object-rotate-left.svg
+ create mode 100755 icons/Gnome/color_gnome_2_object-rotate-right.svg
+ create mode 100755 icons/Gnome/color_gnome_2_package_settings.svg
+ create mode 100755 icons/Gnome/color_gnome_2_preferences-desktop-keyboard.svg
+ create mode 100755 icons/Gnome/color_gnome_2_printer-error.svg
+ create mode 100755 icons/Gnome/color_gnome_2_stock_new-window.svg
+ create mode 100755 icons/Gnome/color_gnome_2_stock_person.svg
+ create mode 100755 icons/Gnome/color_gnome_2_stock_weather-cloudy.svg
+ create mode 100755 icons/Gnome/color_gnome_2_stock_weather-few-clouds.svg
+ create mode 100755 icons/Gnome/color_gnome_2_stock_weather-night-clear.svg
+ create mode 100755 icons/Gnome/color_gnome_2_stock_weather-night-few-clouds.svg
+ create mode 100755 icons/Gnome/color_gnome_2_stock_weather-showers.svg
+ create mode 100755 icons/Gnome/color_gnome_2_stock_weather-snow.svg
+ create mode 100755 icons/Gnome/color_gnome_2_stock_weather-storm.svg
+ create mode 100755 icons/Gnome/color_gnome_2_stock_weather-sunny.svg
+ create mode 100755 icons/Gnome/color_gnome_2_system-software-installer.svg
+ create mode 100755 icons/Gnome/color_gnome_2_template_source.svg
+ create mode 100755 icons/Gnome/color_gnome_2_unica.svg
+ create mode 100755 icons/Gnome/color_gnome_2_weather-severe-alert.svg
+ create mode 100755 icons/Gnome/color_gnome_2_weather-showers-scattered.svg
+ create mode 100755 icons/Gnome/color_gnome_2_web-browser.svg
+ create mode 100644 mytetra.xml
+ create mode 100644 scripts/linux_sync.log
+ create mode 100755 scripts/linux_sync.sh
+ create mode 100755 scripts/sync.bat
+ create mode 100755 scripts/sync.log
+26.10.2019 10:44:15 === Command "git pull"
+fatal: 'origin' does not appear to be a git repository
+fatal: Не удалось прочитать из внешнего репозитория.
+
+Удостоверьтесь, что у вас есть необходимые права доступа
+и репозиторий существует.
+26.10.2019 10:44:15 === Command "git push"
+Отправка в origin
+fatal: 'origin' does not appear to be a git repository
+fatal: Не удалось прочитать из внешнего репозитория.
+
+Удостоверьтесь, что у вас есть необходимые права доступа
+и репозиторий существует.
+
+03.12.2019 20:14:10 === ===============================================
+03.12.2019 20:14:10 === Changes from Linux
+03.12.2019 20:14:10 === Command "git diff"
+M	scripts/linux_sync.log
+03.12.2019 20:14:10 === Command "git add ."
+03.12.2019 20:14:10 === Command "git commit"
+[master e8e9ffe] Changes from Linux - 03.12.2019\ 20:14:10
+ 1 file changed, 261 insertions(+)
+03.12.2019 20:14:10 === Command "git pull"
+Уже обновлено.
+03.12.2019 20:14:11 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+POST git-receive-pack (3300 bytes)
+To https://github.com/gee12/MyTetraTestData.git
+   eef044e..e8e9ffe  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+03.12.2019 20:15:34 === ===============================================
+03.12.2019 20:15:34 === Changes from Linux
+03.12.2019 20:15:34 === Command "git diff"
+M	database.ini
+M	scripts/linux_sync.log
+03.12.2019 20:15:34 === Command "git add ."
+03.12.2019 20:15:34 === Command "git commit"
+[master ca9137f] Changes from Linux - 03.12.2019\ 20:15:34
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+03.12.2019 20:15:34 === Command "git pull"
+Уже обновлено.
+03.12.2019 20:15:35 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+POST git-receive-pack (1057 bytes)
+To https://github.com/gee12/MyTetraTestData.git
+   e8e9ffe..ca9137f  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+03.12.2019 20:15:43 === ===============================================
+03.12.2019 20:15:43 === Changes from Linux
+03.12.2019 20:15:43 === Command "git diff"
+M	scripts/linux_sync.log
+03.12.2019 20:15:43 === Command "git add ."
+03.12.2019 20:15:43 === Command "git commit"
+[master bf23a63] Changes from Linux - 03.12.2019\ 20:15:43
+ 1 file changed, 17 insertions(+)
+03.12.2019 20:15:43 === Command "git pull"
+Уже обновлено.
+03.12.2019 20:15:44 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+POST git-receive-pack (711 bytes)
+To https://github.com/gee12/MyTetraTestData.git
+   ca9137f..bf23a63  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+03.12.2019 20:21:59 === ===============================================
+03.12.2019 20:21:59 === Changes from Linux
+03.12.2019 20:21:59 === Command "git diff"
+M	base/1554803634dcwxqwqssk/text.html
+M	base/1554803666tea6rtn3x9/text.html
+M	mytetra.xml
+M	scripts/linux_sync.log
+03.12.2019 20:21:59 === Command "git add ."
+03.12.2019 20:21:59 === Command "git commit"
+[master 71ef2b1] Changes from Linux - 03.12.2019\ 20:21:59
+ 4 files changed, 37 insertions(+), 9 deletions(-)
+ rewrite base/1554803634dcwxqwqssk/text.html (100%)
+ rewrite base/1554803666tea6rtn3x9/text.html (100%)
+03.12.2019 20:21:59 === Command "git pull"
+Уже обновлено.
+03.12.2019 20:22:00 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+POST git-receive-pack (2936 bytes)
+To https://github.com/gee12/MyTetraTestData.git
+   bf23a63..71ef2b1  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+03.12.2019 21:28:08 === ===============================================
+03.12.2019 21:28:08 === Changes from Linux
+03.12.2019 21:28:08 === Command "git diff"
+D	base/1554803455wx7aipffsm/text.html
+D	base/1554803534frmh4g30gv/image1554803522tmxpcl2tjj.png
+D	base/1554803534frmh4g30gv/text.html
+M	base/1554803634dcwxqwqssk/text.html
+M	base/1554803666tea6rtn3x9/text.html
+M	base/1555938078u3o3b2nzoo/1572074997fcmnyykccm.png
+M	base/1555938078u3o3b2nzoo/1572075013rapni4a43c.java
+M	base/1555938078u3o3b2nzoo/15720752317f0c2ihc30.odt
+M	base/1555938078u3o3b2nzoo/1572075231834xzljwn9.pdf
+M	base/1555938078u3o3b2nzoo/image1555938045vvimkccc0p.png
+M	base/1555938078u3o3b2nzoo/text.html
+M	base/1557654126nn8db6ohrs/15576541340uoo7fucc1.avi
+M	base/1557654126nn8db6ohrs/1572075395e8w2qrtitr.odt
+M	base/1557654126nn8db6ohrs/1572075395j5o02xmck8.pdf
+M	base/1557654126nn8db6ohrs/1572075403l04ggk1f65.png
+M	base/1557654126nn8db6ohrs/image15576543081qsm7i14ai.png
+M	base/1557654126nn8db6ohrs/image15576543086xmkt7mbqb.png
+M	base/1557654126nn8db6ohrs/image15576543087qiiuf22eo.png
+M	base/1557654126nn8db6ohrs/image15576543089cecegwrrt.png
+M	base/1557654126nn8db6ohrs/image1557654308cgbf0k22vs.png
+M	base/1557654126nn8db6ohrs/image1557654308e0v3xkszm6.png
+M	base/1557654126nn8db6ohrs/image1557654308evibcglcn3.png
+M	base/1557654126nn8db6ohrs/image1557654308f2ls5p4c4d.png
+M	base/1557654126nn8db6ohrs/image1557654308foxvqyb81u.png
+M	base/1557654126nn8db6ohrs/image1557654308grz7wm21le.png
+M	base/1557654126nn8db6ohrs/image1557654308gzwn4c7etb.png
+M	base/1557654126nn8db6ohrs/image1557654308h617fjzeln.png
+M	base/1557654126nn8db6ohrs/image1557654308hsyv422jp9.png
+M	base/1557654126nn8db6ohrs/image1557654308i7hf2ntuba.png
+M	base/1557654126nn8db6ohrs/image1557654308jqgrs3pt70.png
+M	base/1557654126nn8db6ohrs/image1557654308jqt90vuxd4.png
+M	base/1557654126nn8db6ohrs/image1557654308js51afgchb.png
+M	base/1557654126nn8db6ohrs/image1557654308kqhgh9k7i7.png
+M	base/1557654126nn8db6ohrs/image1557654308kqvajndwxw.png
+M	base/1557654126nn8db6ohrs/image1557654308lc696uagj2.png
+M	base/1557654126nn8db6ohrs/image1557654308naqumkxiad.png
+M	base/1557654126nn8db6ohrs/image1557654308ngr4nf5iw2.png
+M	base/1557654126nn8db6ohrs/image1557654308nm9h9p11dg.png
+M	base/1557654126nn8db6ohrs/image1557654308oaq9ibz2oj.png
+M	base/1557654126nn8db6ohrs/image1557654308owna595v6o.png
+M	base/1557654126nn8db6ohrs/image1557654308r6021g23id.png
+M	base/1557654126nn8db6ohrs/image1557654308ri7wemg9gu.png
+M	base/1557654126nn8db6ohrs/image1557654308sc32ljxvhr.png
+M	base/1557654126nn8db6ohrs/image1557654308vrowfkveeg.png
+M	base/1557654126nn8db6ohrs/image1557654308vw8u80a9cd.png
+M	base/1557654126nn8db6ohrs/image1557654308wd17o0v1x8.png
+M	base/1557654126nn8db6ohrs/image1557654308x1ecoqz670.png
+M	base/1557654126nn8db6ohrs/image1557654308yfgc8a8k20.png
+M	base/1557654126nn8db6ohrs/text.html
+M	mytetra.xml
+M	scripts/linux_sync.log
+03.12.2019 21:28:08 === Command "git add ."
+03.12.2019 21:28:09 === Command "git commit"
+[master b4871e1] Changes from Linux - 03.12.2019\ 21:28:09
+ 78 files changed, 278 insertions(+), 65 deletions(-)
+ delete mode 100755 base/1554803534frmh4g30gv/image1554803522tmxpcl2tjj.png
+ mode change 100755 => 100644 base/1554803634dcwxqwqssk/text.html
+ create mode 100644 base/1554803666tea6rtn3x9/image15753969132ubvgem83p.png
+ create mode 100644 base/1554803666tea6rtn3x9/image157539691363vpjfafvh.png
+ create mode 100644 base/1554803666tea6rtn3x9/image15753969136uald09q72.png
+ create mode 100644 base/1554803666tea6rtn3x9/image1575396913q4e3qox7c5.png
+ mode change 100755 => 100644 base/1554803666tea6rtn3x9/text.html
+ mode change 100755 => 100644 base/1555938078u3o3b2nzoo/1572074997fcmnyykccm.png
+ mode change 100755 => 100644 base/1555938078u3o3b2nzoo/1572075013rapni4a43c.java
+ mode change 100755 => 100644 base/1555938078u3o3b2nzoo/15720752317f0c2ihc30.odt
+ mode change 100755 => 100644 base/1555938078u3o3b2nzoo/1572075231834xzljwn9.pdf
+ mode change 100755 => 100644 base/1555938078u3o3b2nzoo/image1555938045vvimkccc0p.png
+ mode change 100755 => 100644 base/1555938078u3o3b2nzoo/text.html
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/15576541340uoo7fucc1.avi
+ rewrite base/1557654126nn8db6ohrs/1572075395e8w2qrtitr.odt (98%)
+ mode change 100755 => 100644
+ rewrite base/1557654126nn8db6ohrs/1572075395j5o02xmck8.pdf (98%)
+ mode change 100755 => 100644
+ rewrite base/1557654126nn8db6ohrs/1572075403l04ggk1f65.png (99%)
+ mode change 100755 => 100644
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image15576543081qsm7i14ai.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image15576543086xmkt7mbqb.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image15576543087qiiuf22eo.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image15576543089cecegwrrt.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308cgbf0k22vs.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308e0v3xkszm6.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308evibcglcn3.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308f2ls5p4c4d.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308foxvqyb81u.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308grz7wm21le.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308gzwn4c7etb.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308h617fjzeln.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308hsyv422jp9.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308i7hf2ntuba.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308jqgrs3pt70.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308jqt90vuxd4.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308js51afgchb.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308kqhgh9k7i7.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308kqvajndwxw.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308lc696uagj2.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308naqumkxiad.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308ngr4nf5iw2.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308nm9h9p11dg.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308oaq9ibz2oj.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308owna595v6o.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308r6021g23id.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308ri7wemg9gu.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308sc32ljxvhr.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308vrowfkveeg.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308vw8u80a9cd.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308wd17o0v1x8.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308x1ecoqz670.png
+ mode change 100755 => 100644 base/1557654126nn8db6ohrs/image1557654308yfgc8a8k20.png
+ rewrite base/1557654126nn8db6ohrs/text.html (98%)
+ mode change 100755 => 100644
+ create mode 100644 base/1575396587ybld0rnv2q/image1575396583dq1ujuulj6.png
+ create mode 100644 base/1575396587ybld0rnv2q/text.html
+ create mode 100644 base/1575396643hneoxot3w8/image1575396634uxxfre6u9o.png
+ create mode 100644 base/1575396643hneoxot3w8/text.html
+ create mode 100644 base/1575397003e4v0reltol/text.html
+ create mode 100644 base/1575397087s5n2clumdf/image1575397073ezmqfd406s.png
+ create mode 100644 base/1575397087s5n2clumdf/text.html
+ create mode 100644 base/1575397168tyoa8lshnb/image15753971575bw8t99ob2.png
+ create mode 100644 base/1575397168tyoa8lshnb/text.html
+ create mode 100644 base/1575397187d0n9dp5nlm/image1575397193ibn50gum3f.png
+ rename base/{1554803534frmh4g30gv => 1575397187d0n9dp5nlm}/text.html (71%)
+ mode change 100755 => 100644
+ create mode 100644 base/1575397228ezybfocoeh/image1575397227wp8o2704kx.png
+ create mode 100644 base/1575397228ezybfocoeh/text.html
+ create mode 100644 base/1575397248dx7nenlze2/image1575397244paw4mrsyvm.png
+ rename base/{1554803455wx7aipffsm => 1575397248dx7nenlze2}/text.html (58%)
+ mode change 100755 => 100644
+ create mode 100644 base/1575397271jgpzavuge7/image15753972714q8ce2fziu.png
+ create mode 100644 base/1575397271jgpzavuge7/text.html
+ create mode 100644 base/1575397328pisbw7bcq4/image1575397327kcapb0lmgz.png
+ create mode 100644 base/1575397328pisbw7bcq4/text.html
+ create mode 100644 base/157539737414be22p84e/image15753973579d6h424fuu.png
+ create mode 100644 base/157539737414be22p84e/text.html
+ create mode 100644 base/1575397415plvfvyxrjo/image1575397414y8j9m1rb9v.png
+ create mode 100644 base/1575397415plvfvyxrjo/text.html
+ create mode 100644 base/1575397560xx7xs0gt4o/text.html
+ create mode 100644 base/1575397589s5nje6zio0/text.html
+ rewrite mytetra.xml (86%)
+03.12.2019 21:28:11 === Command "git pull"
+Уже обновлено.
+03.12.2019 21:28:12 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+POST git-receive-pack (chunked)
+To https://github.com/gee12/MyTetraTestData.git
+   71ef2b1..b4871e1  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+10.02.2020 21:26:59 === ===============================================
+10.02.2020 21:26:59 === Changes from Linux
+10.02.2020 21:26:59 === Command "git diff"
+M	scripts/linux_sync.log
+10.02.2020 21:26:59 === Command "git add ."
+10.02.2020 21:26:59 === Command "git commit"
+[master b215586] Changes from Linux - 10.02.2020\ 21:26:59
+ 1 file changed, 100 insertions(+)
+10.02.2020 21:26:59 === Command "git pull"
+Из https://github.com/gee12/MyTetraTestData
+   b4871e1..907ab65  master     -> origin/master
+error: Ваши локальные изменения в указанных файлах будут перезаписаны при слиянии:
+	scripts/linux_sync.log
+Сделайте коммит или спрячьте ваши изменения перед слиянием веток.
+Прерываю
+10.02.2020 21:27:01 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+To https://github.com/gee12/MyTetraTestData.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: не удалось отправить некоторые ссылки в «https://github.com/gee12/MyTetraTestData.git»
+подсказка: Обновления были отклонены, так как верхушка вашей текущей ветки
+подсказка: позади ее внешней части. Заберите и слейте внешние изменения 
+подсказка: (например, с помощью «git pull …») перед повторной попыткой отправки
+подсказка: изменений.
+подсказка: Для дополнительной информации, смотрите «Note about fast-forwards»
+подсказка: в «git push --help».
+
+10.02.2020 21:29:11 === ===============================================
+10.02.2020 21:29:11 === Changes from Linux
+10.02.2020 21:29:11 === Command "git diff"
+M	scripts/linux_sync.log
+10.02.2020 21:29:11 === Command "git add ."
+10.02.2020 21:29:11 === Command "git commit"
+[master 9805138] Changes from Linux - 10.02.2020\ 21:29:11
+ 2 files changed, 31 insertions(+)
+ create mode 100755 .gitignore
+10.02.2020 21:29:11 === Command "git pull"
+error: Ваши локальные изменения в указанных файлах будут перезаписаны при слиянии:
+	scripts/linux_sync.log
+Сделайте коммит или спрячьте ваши изменения перед слиянием веток.
+Прерываю
+10.02.2020 21:29:12 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+To https://github.com/gee12/MyTetraTestData.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: не удалось отправить некоторые ссылки в «https://github.com/gee12/MyTetraTestData.git»
+подсказка: Обновления были отклонены, так как верхушка вашей текущей ветки
+подсказка: позади ее внешней части. Заберите и слейте внешние изменения 
+подсказка: (например, с помощью «git pull …») перед повторной попыткой отправки
+подсказка: изменений.
+подсказка: Для дополнительной информации, смотрите «Note about fast-forwards»
+подсказка: в «git push --help».
+
+10.02.2020 21:31:09 === ===============================================
+10.02.2020 21:31:09 === Changes from Linux
+10.02.2020 21:31:09 === Command "git diff"
+D	scripts/sync.log
+10.02.2020 21:31:09 === Command "git add ."
+10.02.2020 21:31:09 === Command "git commit"
+[master e21c4b2] Changes from Linux - 10.02.2020\ 21:31:09
+ 2 files changed, 625 deletions(-)
+ delete mode 100644 scripts/linux_sync.log
+ delete mode 100755 scripts/sync.log
+10.02.2020 21:31:09 === Command "git pull"
+Автослияние scripts/windows_sync.bat
+Автослияние .gitignore
+КОНФЛИКТ (добавление/добавление): Конфликт слияния в .gitignore
+Не удалось провести автоматическое слияние; исправьте конфликты и сделайте коммит результата.
+10.02.2020 21:31:10 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+To https://github.com/gee12/MyTetraTestData.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: не удалось отправить некоторые ссылки в «https://github.com/gee12/MyTetraTestData.git»
+подсказка: Обновления были отклонены, так как верхушка вашей текущей ветки
+подсказка: позади ее внешней части. Заберите и слейте внешние изменения 
+подсказка: (например, с помощью «git pull …») перед повторной попыткой отправки
+подсказка: изменений.
+подсказка: Для дополнительной информации, смотрите «Note about fast-forwards»
+подсказка: в «git push --help».
+
+10.02.2020 21:32:47 === ===============================================
+10.02.2020 21:32:47 === Changes from Linux
+10.02.2020 21:32:47 === Command "git diff"
+U	.gitignore
+D	.gitignore
+10.02.2020 21:32:47 === Command "git add ."
+10.02.2020 21:32:47 === Command "git commit"

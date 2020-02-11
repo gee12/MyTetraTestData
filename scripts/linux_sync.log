@@ -625,3 +625,54 @@ M	mytetra.xml
 M	scripts/linux_sync.log
 10.02.2020 22:18:25 === Command "git add ."
 10.02.2020 22:18:28 === Command "git commit"
+[master c578b4e] Changes from Linux - 10.02.2020\ 22:18:28
+ 36 files changed, 7680 insertions(+), 7 deletions(-)
+ delete mode 100644 base/157543900548t21ca23b/text.html
+ create mode 100644 base/15813598943el5yglr4m/text.html
+ create mode 100644 base/1581360153yayz6rnxfe/text.html
+ create mode 100644 base/158136021389o4mnhsje/text.html
+ create mode 100644 base/1581360234dk7yernvxc/15813607820028o8lblw.jpg
+ create mode 100644 base/1581360234dk7yernvxc/15813607821idg1l5p0m.jpg
+ create mode 100644 base/1581360234dk7yernvxc/15813607823ksx0uy5zy.jpg
+ create mode 100644 base/1581360234dk7yernvxc/15813607824cormjsgyd.jpg
+ create mode 100644 base/1581360234dk7yernvxc/15813607826w1ejerkaj.jpg
+ create mode 100644 base/1581360234dk7yernvxc/158136078294g21hcz2b.jpg
+ create mode 100644 base/1581360234dk7yernvxc/15813607829s3s7yplaq.png
+ create mode 100644 base/1581360234dk7yernvxc/1581360782bp7uvkdflw.jpg
+ create mode 100644 base/1581360234dk7yernvxc/1581360782c8dngv93c7.jpg
+ create mode 100644 base/1581360234dk7yernvxc/1581360782cnht5zahys.jpg
+ create mode 100644 base/1581360234dk7yernvxc/1581360782du3ffxxb1i.jpeg
+ create mode 100644 base/1581360234dk7yernvxc/1581360782jui7ll6d14.jpg
+ create mode 100644 base/1581360234dk7yernvxc/1581360782olam9w7f98.jpg
+ create mode 100644 base/1581360234dk7yernvxc/1581360782ozjpd34k3u.jpg
+ create mode 100644 base/1581360234dk7yernvxc/1581360782pkt8sh6h2g.jpg
+ create mode 100644 base/1581360234dk7yernvxc/1581360782qd886d7wbl.jpg
+ create mode 100644 base/1581360234dk7yernvxc/1581360782savsi6nhy5.jpg
+ create mode 100644 base/1581360234dk7yernvxc/1581360782sbm5e2gnls.jpg
+ create mode 100644 base/1581360234dk7yernvxc/text.html
+ create mode 100644 base/1581360249l2b2d3w0yc/1581360868lqavcj7kzh.zip
+ create mode 100644 base/1581360249l2b2d3w0yc/text.html
+ create mode 100644 base/1581360276xqzpfbm1je/text.html
+ create mode 100644 base/1581360319me9ky6dbhu/text.html
+ create mode 100644 base/1581360341npil80x9qy/text.html
+ create mode 100644 base/158136036617vrqvx9so/image1581361738fmqvu5x9h7.png
+ create mode 100644 base/158136036617vrqvx9so/image1581361860bjf1fpmsf4.png
+ create mode 100644 base/158136036617vrqvx9so/image1581361997bqz2n7yoq3.png
+ create mode 100644 base/158136036617vrqvx9so/image1581362046p4ry24uofo.png
+ create mode 100644 base/158136036617vrqvx9so/text.html
+ create mode 100644 base/158136089869yhlqgsav/text.html
+10.02.2020 22:18:28 === Command "git pull"
+Уже обновлено.
+10.02.2020 22:18:29 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+POST git-receive-pack (chunked)
+To https://github.com/gee12/MyTetraTestData.git
+   73d010f..c578b4e  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+11.02.2020 21:12:11 === ===============================================
+11.02.2020 21:12:11 === Changes from Linux
+11.02.2020 21:12:11 === Command "git diff"
+M	scripts/linux_sync.log
+11.02.2020 21:12:11 === Command "git add ."
+11.02.2020 21:12:11 === Command "git commit"

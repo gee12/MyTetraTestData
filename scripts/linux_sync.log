@@ -715,3 +715,39 @@ M	mytetra.xml
 M	scripts/linux_sync.log
 11.02.2020 22:41:11 === Command "git add ."
 11.02.2020 22:41:13 === Command "git commit"
+[master bc3f2ef] Changes from Linux - 11.02.2020\ 22:41:13
+ 23 files changed, 53 insertions(+), 3 deletions(-)
+ create mode 100644 base/1575397589s5nje6zio0/1581449819wp447qsu9y.zip
+ create mode 100644 base/1581360276xqzpfbm1je/15814498732i97dzdkto.jpg
+ create mode 100644 base/1581360276xqzpfbm1je/15814498734k5e5athz1.jpg
+ create mode 100644 base/1581360276xqzpfbm1je/1581449873bdl6ilv451.jpg
+ create mode 100644 base/1581360276xqzpfbm1je/1581449873hkxcndhmul.jpg
+ create mode 100644 base/1581360276xqzpfbm1je/1581449873hqh1lwf4jf.jpg
+ create mode 100644 base/1581360276xqzpfbm1je/1581449873uz1ylu3gtq.jpg
+ create mode 100644 base/1581360276xqzpfbm1je/1581449873z5f2pbks2a.jpg
+ create mode 100644 base/1581360276xqzpfbm1je/158144987400dpujfcrg.jpg
+ create mode 100644 base/1581360276xqzpfbm1je/15814498740sng7zpni2.jpg
+ create mode 100644 base/1581360276xqzpfbm1je/15814498741dyrj6jvj3.jpeg
+ create mode 100644 base/1581360276xqzpfbm1je/15814498741e2althppt.jpg
+ create mode 100644 base/1581360276xqzpfbm1je/15814498745diuh4tkjq.png
+ create mode 100644 base/1581360276xqzpfbm1je/15814498747vz6mknyx4.jpg
+ create mode 100644 base/1581360276xqzpfbm1je/1581449874e40fy4j7vn.jpg
+ create mode 100644 base/1581360276xqzpfbm1je/1581449874fjoyecqht1.jpg
+ create mode 100644 base/1581360276xqzpfbm1je/1581449874fz87t2shri.jpg
+ create mode 100644 base/1581360276xqzpfbm1je/1581449874gvoo2irm5o.jpg
+ create mode 100644 base/1581360276xqzpfbm1je/1581449874jp6eoiteyp.jpg
+11.02.2020 22:41:13 === Command "git pull"
+Уже обновлено.
+11.02.2020 22:41:14 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+POST git-receive-pack (chunked)
+To https://github.com/gee12/MyTetraTestData.git
+   aeb2707..bc3f2ef  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+11.02.2020 22:42:23 === ===============================================
+11.02.2020 22:42:23 === Changes from Linux
+11.02.2020 22:42:23 === Command "git diff"
+M	scripts/linux_sync.log
+11.02.2020 22:42:23 === Command "git add ."
+11.02.2020 22:42:23 === Command "git commit"

@@ -34,7 +34,7 @@
      </files>
     </record>
    </recordtable>
-   <node crypt="1" icon="" id="1581445750f008ikdf0s" name="UkM1U0lNUAOrNeRNK0YJsOwx4qt8DU5LFmMrBNFJCkULD9LvQgLUZQPxpKqT90urXjnPSUL1/2mYFd+hcy1YFZEwbUao/0/4OYXAmboQ5Gs=">
+   <node crypt="1" icon="UkM1U0lNUAPyh2Pxlwe7pxhKJ9dCVeLskYA6YHGpTSxUYokOVJGBHJtpnuobYHrfTlCwhz77W6SuLFajlIHA/vjADYcIrvrGCYIgBD0h0dVX9TVABtfAMQ==" id="1581445750f008ikdf0s" name="UkM1U0lNUAOrNeRNK0YJsOwx4qt8DU5LFmMrBNFJCkULD9LvQgLUZQPxpKqT90urXjnPSUL1/2mYFd+hcy1YFZEwbUao/0/4OYXAmboQ5Gs=">
     <node crypt="1" icon="" id="1581445788norbuisoz4" name="UkM1U0lNUAMGM4YbhWn5Qm2Ff4avvtnOnyLRRaV14NSBDqcaLtj8ErEC53DBU1t9zpzQrOflHxao0iVDHZa/hg==">
      <recordtable>
       <record id="1581445839l288mvq9xf" name="UkM1U0lNUAP2SMDwXAmRiO/sRMuA0VKk3IjoSnbgth0phsroghTMox4H2ljm1/GOzAFlaNcRl2cTu/CCowiSqyomUjGPJietH24XZDbt0Df34Ya03jcx7pruZ0NCQtGu" author="" url="" tags="UkM1U0lNUAN9dxZzv9ZjHLQ7YlzanbLuaCUHsclVb8891WEb6wMoUCLaAO9ZDKaw2JfX7JtlvU2KZ4tawEjRmMMnbgwHlwMHedPxRSrzJXc=" ctime="20200211213039" dir="1581445839xa1yjpew3c" file="text.html" crypt="1"/>
@@ -45,12 +45,12 @@
     <node crypt="1" icon="" id="1581445813jpl6sne2j4" name="UkM1U0lNUAN3jSQwG8Yb8uBWNq0iTpW79mREpb584A01TEGwAmC1eEjf5jJXZKqNvi/vq+tZQzj/X0PftD2z6Q=="/>
     <node crypt="1" icon="" id="1581445816bljvor1boj" name="UkM1U0lNUAMLGdbO7juPXFGdAQyXMb1GX4MKuBKiCXR/WsBnrh7EZSNUcBoTWC49E3xYugj+kbFAsCSWnybhOw=="/>
    </node>
-   <node crypt="1" icon="" id="158144576124qpnbzm82" name="UkM1U0lNUAPt7MQQQK5pDFB3Xh2J3KePbP4+84EKd0n3bgc62Qn84NEFkLCgPznZ1WTrI9IMPxsP/44Mw9e9hg=="/>
+   <node crypt="1" icon="UkM1U0lNUAP2wOAmUDSOP2d2LdjpS3JlfUNnFJzAhT+la18rcIDwVIAeaTaEQlU8nGhupyc9OC9g/kxDDiQSl54NszBODq/k" id="158144576124qpnbzm82" name="UkM1U0lNUAPt7MQQQK5pDFB3Xh2J3KePbP4+84EKd0n3bgc62Qn84NEFkLCgPznZ1WTrI9IMPxsP/44Mw9e9hg=="/>
    <node crypt="1" icon="" id="1581445767guovo6n4rh" name="UkM1U0lNUAMiyTmfWQ/kqEJ+UdtcCl5Za53MmNUFb4EIAJCp1DJofCwVIYQpQg929GS9bR1+nThYEw4BP8gQCg=="/>
    <node crypt="1" icon="" id="15814457725yntvuud1p" name="UkM1U0lNUAPFf/lnsTs1tmJJe6b7tQvcUg1TDtQK58hc4U65vGx7TEQHQUlI9+JiCjSzskDh3et4aZiww49LAA=="/>
    <node crypt="1" icon="" id="1581445778322ok2i099" name="UkM1U0lNUANxcOW9ftMhu15NALwmqE2Ryn7F4Eyn2YrzeObaz40YD6nsDPzxf0ClTeODE+k1Csjualy2AM+nvA=="/>
   </node>
-  <node crypt="" icon="" id="1300000000aaaaaaaaa1" name="Много подветок">
+  <node crypt="" icon="/Gnome/color_gnome_2_appointment-soon.svg" id="1300000000aaaaaaaaa1" name="Много подветок">
    <recordtable>
     <record id="15813598943g8j6nd7uy" name="Просто запись" author="" url="" tags="" ctime="20200210213814" dir="15813598943el5yglr4m" file="text.html"/>
    </recordtable>
@@ -75,7 +75,7 @@
     </node>
    </node>
   </node>
-  <node crypt="" id="1575396855vv8tiwexhn" name="Много записей">
+  <node crypt="" icon="/Gnome/color_gnome_2_emblem-generic.svg" id="1575396855vv8tiwexhn" name="Много записей">
    <recordtable>
     <record id="1581360213vylukph69u" name="Много текста" author="Л.Толстой" url="http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_0073.shtml" tags="Текст, Книги, Классика, Литература" ctime="20200210214445" dir="158136021389o4mnhsje" file="text.html"/>
     <record id="15813602345bgbbe7vgx" name="Прикреплен много файлов" author="" url="" tags="Файлы" ctime="20200210214447" dir="1581360234dk7yernvxc" file="text.html">
@@ -111,7 +111,7 @@
     <record id="1581360898pza29x38mf" name="Запись с ссылками" author="" url="" tags="Ссылки" ctime="20200210215458" dir="158136089869yhlqgsav" file="text.html"/>
    </recordtable>
   </node>
-  <node crypt="0" icon="" id="1554803225i5ro9hde3r" name="Грибы">
+  <node crypt="0" icon="/Gnome/color_gnome_2_im-msn.svg" id="1554803225i5ro9hde3r" name="Грибы">
    <recordtable>
     <record id="1554803666nujshkt6og" name="Список угрожаемых видов грибов, водорослей и плауновидных растений" author="" url="" tags="Грибы, МСОП" ctime="20190409125426" dir="1554803666tea6rtn3x9" file="text.html" crypt="0">
      <files>
@@ -120,7 +120,7 @@
     </record>
    </recordtable>
   </node>
-  <node crypt="" id="1575394172d3p6h9hnj2" name="Растения"/>
+  <node crypt="" icon="/Gnome/color_gnome_2_emblem-default.svg" id="1575394172d3p6h9hnj2" name="Растения"/>
   <node crypt="" id="157539417834pgx1jkh3" name="Животные">
    <recordtable>
     <record id="15753970036undc0g7fr" name="Список угрожаемых видов животных" author="" url="" tags="Животные, МСОП" ctime="20191203211643" dir="1575397003e4v0reltol" file="text.html"/>

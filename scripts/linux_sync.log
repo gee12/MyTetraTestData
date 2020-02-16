@@ -1059,3 +1059,21 @@ M	base/1554803634dcwxqwqssk/text.html
 M	scripts/linux_sync.log
 16.02.2020 20:27:26 === Command "git add ."
 16.02.2020 20:27:26 === Command "git commit"
+[master 236bf09] Changes from Linux - 16.02.2020\ 20:27:26
+ 2 files changed, 28 insertions(+), 9 deletions(-)
+ rewrite base/1554803634dcwxqwqssk/text.html (72%)
+16.02.2020 20:27:26 === Command "git pull"
+Уже обновлено.
+16.02.2020 20:27:26 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+POST git-receive-pack (1216 bytes)
+To https://github.com/gee12/MyTetraTestData.git
+   2b532a5..236bf09  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+16.02.2020 21:58:03 === ===============================================
+16.02.2020 21:58:03 === Changes from Linux
+16.02.2020 21:58:03 === Command "git diff"
+M	scripts/linux_sync.log
+16.02.2020 21:58:03 === Command "git add ."
+16.02.2020 21:58:03 === Command "git commit"

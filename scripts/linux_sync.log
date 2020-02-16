@@ -969,3 +969,20 @@ updating local tracking ref 'refs/remotes/origin/master'
 M	scripts/linux_sync.log
 16.02.2020 09:24:45 === Command "git add ."
 16.02.2020 09:24:45 === Command "git commit"
+[master 91561bf] Changes from Linux - 16.02.2020\ 09:24:45
+ 1 file changed, 17 insertions(+)
+16.02.2020 09:24:45 === Command "git pull"
+Уже обновлено.
+16.02.2020 09:24:45 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+POST git-receive-pack (711 bytes)
+To https://github.com/gee12/MyTetraTestData.git
+   f62669d..91561bf  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+16.02.2020 09:24:50 === ===============================================
+16.02.2020 09:24:50 === Changes from Linux
+16.02.2020 09:24:50 === Command "git diff"
+M	scripts/linux_sync.log
+16.02.2020 09:24:50 === Command "git add ."
+16.02.2020 09:24:50 === Command "git commit"

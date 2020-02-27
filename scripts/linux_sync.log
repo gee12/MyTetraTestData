@@ -1145,3 +1145,33 @@ D	mytetra_src.xml
 M	scripts/linux_sync.log
 27.02.2020 18:58:11 === Command "git add ."
 27.02.2020 18:58:11 === Command "git commit"
+[master 4a842a2] Changes from Linux - 27.02.2020\ 18:58:11
+ 3 files changed, 29 insertions(+)
+ create mode 100644 base/1582687971t0wcba1wk4/text.html
+ rename mytetra_src.xml => mytetra.xml (100%)
+27.02.2020 18:58:11 === Command "git pull"
+Из https://github.com/gee12/MyTetraTestData
+   3d84d07..3744299  master     -> origin/master
+Автослияние mytetra.xml
+КОНФЛИКТ (содержимое): Конфликт слияния в mytetra.xml
+Не удалось провести автоматическое слияние; исправьте конфликты и сделайте коммит результата.
+27.02.2020 18:58:13 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+To https://github.com/gee12/MyTetraTestData.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: не удалось отправить некоторые ссылки в «https://github.com/gee12/MyTetraTestData.git»
+подсказка: Обновления были отклонены, так как верхушка вашей текущей ветки
+подсказка: позади ее внешней части. Заберите и слейте внешние изменения 
+подсказка: (например, с помощью «git pull …») перед повторной попыткой отправки
+подсказка: изменений.
+подсказка: Для дополнительной информации, смотрите «Note about fast-forwards»
+подсказка: в «git push --help».
+
+27.02.2020 18:59:25 === ===============================================
+27.02.2020 18:59:25 === Changes from Linux
+27.02.2020 18:59:25 === Command "git diff"
+U	mytetra.xml
+D	mytetra.xml
+M	scripts/linux_sync.log
+27.02.2020 18:59:25 === Command "git add ."
+27.02.2020 18:59:25 === Command "git commit"

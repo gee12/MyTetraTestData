@@ -1175,3 +1175,19 @@ D	mytetra.xml
 M	scripts/linux_sync.log
 27.02.2020 18:59:25 === Command "git add ."
 27.02.2020 18:59:25 === Command "git commit"
+[master 551299a] Changes from Linux - 27.02.2020\ 18:59:25
+27.02.2020 18:59:25 === Command "git pull"
+Уже обновлено.
+27.02.2020 18:59:26 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+POST git-receive-pack (1548 bytes)
+To https://github.com/gee12/MyTetraTestData.git
+   3744299..551299a  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+27.02.2020 19:00:51 === ===============================================
+27.02.2020 19:00:51 === Changes from Linux
+27.02.2020 19:00:51 === Command "git diff"
+M	scripts/linux_sync.log
+27.02.2020 19:00:51 === Command "git add ."
+27.02.2020 19:00:51 === Command "git commit"

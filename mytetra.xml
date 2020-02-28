@@ -33,6 +33,8 @@
       <file id="1581449874e40fy4j7vn" fileName="UkM1U0lNUAMU0brM0UVr39+3ddjlHd5foVfMFQQGl/v3/rvaFelVl8ZUoEX0+zrzepzQpvhQwNuCJtvsYm8mqr4aicS594Tg" type="file" crypt="1"/>
      </files>
     </record>
+    <record id="158281963763918crws9" name="UkM1U0lNUAPzrApqJHUqlUOroj5UA0VX51i4cPLOztjMq1p8nf9KflP4S9EEqa0rLE/7m2j86rqN91fbbwowOA==" author="" url="" tags="" ctime="20200227190717" dir="1582819637596rax6yi6" file="text.html" crypt="1"/>
+    <record id="1582819833xex3wwdqp1" name="UkM1U0lNUAPyhlBesZQn4QcyH2GpbZ+SDgI0maYHWwcWHg+IVl4fgn2z/OpMY5OWvtQ79eCCspfFdQsOi0/tqg==" author="" url="" tags="" ctime="20200227191033" dir="1582819833rnu42eoi04" file="text.html" crypt="1"/>
    </recordtable>
    <node crypt="1" icon="UkM1U0lNUAPyh2Pxlwe7pxhKJ9dCVeLskYA6YHGpTSxUYokOVJGBHJtpnuobYHrfTlCwhz77W6SuLFajlIHA/vjADYcIrvrGCYIgBD0h0dVX9TVABtfAMQ==" id="1581445750f008ikdf0s" name="UkM1U0lNUAOrNeRNK0YJsOwx4qt8DU5LFmMrBNFJCkULD9LvQgLUZQPxpKqT90urXjnPSUL1/2mYFd+hcy1YFZEwbUao/0/4OYXAmboQ5Gs=">
     <recordtable>
@@ -230,6 +232,9 @@
      </files>
     </record>
     <record id="1554803634c4blsrbv0e" name="Как одно изменение конфигурации PostgreSQL улучшило производительность медленных запросов в 50 раз" author="автор" url="http://url_ветки" tags="" ctime="20191204090113" dir="1554803634dcwxqwqssk" file="text.html" crypt="0"/>
+    <record id="1582819420lrcolxfdfz" name="тест" author="" url="" tags="" ctime="20200227190340" dir="15828194204hhww0icv7" file="text.html"/>
+    <record id="15828194814bv0np7291" name="2" author="" url="" tags="" ctime="20200227190441" dir="1582819481zlyc9jp4c4" file="text.html"/>
+    <record id="1582819536pain2mv22f" name="3" author="" url="" tags="" ctime="20200227190536" dir="1582819536408f0v4odu" file="text.html"/>
    </recordtable>
   </node>
  </content>

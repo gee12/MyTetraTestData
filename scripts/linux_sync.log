@@ -1229,3 +1229,41 @@ M	mytetra.xml
 M	scripts/linux_sync.log
 28.02.2020 19:55:05 === Command "git add ."
 28.02.2020 19:55:05 === Command "git commit"
+[master 3ecdf0c] Changes from Linux - 28.02.2020\ 19:55:05
+ 8 files changed, 52 insertions(+), 14 deletions(-)
+ rewrite base/1554803634dcwxqwqssk/text.html (76%)
+ create mode 100644 base/15828194204hhww0icv7/text.html
+ create mode 100644 base/1582819481zlyc9jp4c4/text.html
+ create mode 100644 base/1582819536408f0v4odu/text.html
+ create mode 100644 base/1582819637596rax6yi6/text.html
+ create mode 100644 base/1582819833rnu42eoi04/text.html
+28.02.2020 19:55:05 === Command "git pull"
+Из https://github.com/gee12/MyTetraTestData
+   3c40487..71f494e  master     -> origin/master
+Автослияние mytetra.xml
+КОНФЛИКТ (содержимое): Конфликт слияния в mytetra.xml
+Автослияние base/1554803634dcwxqwqssk/text.html
+КОНФЛИКТ (содержимое): Конфликт слияния в base/1554803634dcwxqwqssk/text.html
+Не удалось провести автоматическое слияние; исправьте конфликты и сделайте коммит результата.
+28.02.2020 19:55:07 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+To https://github.com/gee12/MyTetraTestData.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: не удалось отправить некоторые ссылки в «https://github.com/gee12/MyTetraTestData.git»
+подсказка: Обновления были отклонены, так как верхушка вашей текущей ветки
+подсказка: позади ее внешней части. Заберите и слейте внешние изменения 
+подсказка: (например, с помощью «git pull …») перед повторной попыткой отправки
+подсказка: изменений.
+подсказка: Для дополнительной информации, смотрите «Note about fast-forwards»
+подсказка: в «git push --help».
+
+28.02.2020 19:55:31 === ===============================================
+28.02.2020 19:55:31 === Changes from Linux
+28.02.2020 19:55:31 === Command "git diff"
+U	base/1554803634dcwxqwqssk/text.html
+M	base/1554803634dcwxqwqssk/text.html
+U	mytetra.xml
+M	mytetra.xml
+M	scripts/linux_sync.log
+28.02.2020 19:55:31 === Command "git add ."
+28.02.2020 19:55:31 === Command "git commit"

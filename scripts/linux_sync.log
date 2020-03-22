@@ -1284,3 +1284,71 @@ M	mytetra.xml
 M	scripts/linux_sync.log
 28.02.2020 19:56:26 === Command "git add ."
 28.02.2020 19:56:26 === Command "git commit"
+[master 18dcddc] Changes from Linux - 28.02.2020\ 19:56:26
+ 2 files changed, 248 insertions(+), 477 deletions(-)
+28.02.2020 19:56:26 === Command "git pull"
+Уже обновлено.
+28.02.2020 19:56:27 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+POST git-receive-pack (2007 bytes)
+To https://github.com/gee12/MyTetraTestData.git
+   1b1a895..18dcddc  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+28.02.2020 21:11:58 === ===============================================
+28.02.2020 21:11:58 === Changes from Linux
+28.02.2020 21:11:58 === Command "git diff"
+M	scripts/linux_sync.log
+28.02.2020 21:11:58 === Command "git add ."
+28.02.2020 21:11:58 === Command "git commit"
+[master d52b412] Changes from Linux - 28.02.2020\ 21:11:58
+ 1 file changed, 17 insertions(+)
+28.02.2020 21:11:58 === Command "git pull"
+Из https://github.com/gee12/MyTetraTestData
+   18dcddc..a945b1f  master     -> origin/master
+Merge made by the 'recursive' strategy.
+ base/158136036617vrqvx9so/text.html |  19 ++++++++++---------
+ base/158136089869yhlqgsav/text.html |  25 ++++++++++++++-----------
+ base/1582820704t0svg3qtii/text.html |   9 +++++++++
+ base/1582824671hjdw5ooyfu/text.html |   4 ++++
+ base/1582828540y5m70f9kcf/text.html | Bin 608 -> 440 bytes
+ base/15828291230km7s2sizm/text.html | Bin 600 -> 448 bytes
+ 6 files changed, 37 insertions(+), 20 deletions(-)
+28.02.2020 21:12:00 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+POST git-receive-pack (1029 bytes)
+To https://github.com/gee12/MyTetraTestData.git
+   a945b1f..d238bca  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+28.02.2020 21:39:37 === ===============================================
+28.02.2020 21:39:37 === Changes from Linux
+28.02.2020 21:39:37 === Command "git diff"
+M	scripts/linux_sync.log
+28.02.2020 21:39:37 === Command "git add ."
+28.02.2020 21:39:37 === Command "git commit"
+[master 3126fab] Changes from Linux - 28.02.2020\ 21:39:37
+ 1 file changed, 26 insertions(+)
+28.02.2020 21:39:37 === Command "git pull"
+Из https://github.com/gee12/MyTetraTestData
+   d238bca..91ee914  master     -> origin/master
+Merge made by the 'recursive' strategy.
+ base/1582914632zzek2is1yb/text.html |   4 +
+ base/1582914728tawnwo7yar/text.html | Bin 0 -> 488 bytes
+ mytetra.xml                         | 488 ++++++++++++++++++------------------
+ 3 files changed, 249 insertions(+), 243 deletions(-)
+ create mode 100644 base/1582914632zzek2is1yb/text.html
+ create mode 100644 base/1582914728tawnwo7yar/text.html
+28.02.2020 21:39:39 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+POST git-receive-pack (1221 bytes)
+To https://github.com/gee12/MyTetraTestData.git
+   91ee914..8911d1a  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+28.02.2020 22:22:52 === ===============================================
+28.02.2020 22:22:52 === Changes from Linux
+28.02.2020 22:22:52 === Command "git diff"
+M	scripts/linux_sync.log
+28.02.2020 22:22:53 === Command "git add ."
+28.02.2020 22:22:53 === Command "git commit"

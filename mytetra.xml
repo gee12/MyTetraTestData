@@ -38,7 +38,6 @@
         <record id="15828299778vv5qho0ri" name="UkM1U0lNUAPEgkZhGIBL5gsbcvdr+FPEgXC/dSRcqbdZlQNMHvn6jg9cO9QNfCVmodXKPmjiP5Im8M2/AqaQMA==" author="UkM1U0lNUAPdvaAz+Z1OCu059Afz6qmEdsueRO/AmdpiUuQaXPb+9FJD6wezUMICNa8pQCTkXH7mxfm03iSqpw==" url="UkM1U0lNUAMRmCkV6NmpDS94Xu5L0fs9BfDDVSjMYgomP7SXB5IKP9qnSZXckV1LnRpe+6Wl5seAfK467FPJcQ==" tags="UkM1U0lNUAPCsT74Au2R7rgJkF8e/VBh5AO8OlbHuLwofLglTvQpkc28pefDp5sWm98/XJHc2tKxbnVFLCTOmsACOGaoAy5I" ctime="20200227215937" dir="1582829977c89anlts7n" file="text.html" crypt="1" />
         <record id="1582830269ko4co2t6cl" name="UkM1U0lNUAMY1spRcPkV2jaR0qM9s7UiydU1M4zVKFnfNbnHgrFC0GfO8uS1qp7Wq1Aopso7D9TVcy+WZLlAFw==" author="UkM1U0lNUANfnWaMp1ApSOfJ1FItQaG0TPwRrQxSH0b5yP8RAxKc37G/b/U0SLsEebCIMWkqpQgxjWznlJS6AA==" url="UkM1U0lNUAOHiYYhV90RxFm5ARjaYOQsxGo4xrXXxBgmNce84Px+CjqI1e0dT5ce44UFedUdgLdoTl1BUuk7Xw==" tags="UkM1U0lNUAMXIYDBzBAmPVZV78g6P3YsNFBlt2Pub6oI5hjPZWs1AAgJJ95UMRnw63HMa8bRBMqzCheeK2fv7P0lXaQfWY3S" ctime="20200227220429" dir="1582830269emrjyh73bh" file="text.html" crypt="1" />
         <record id="1582831007tnhm8vvrc6" name="UkM1U0lNUAPO08JIpsnuPxquY3NLl+zdJrFvjAAm6M0VcmcxNqGRDp2iWP4diJoikPgY1+772ucgJDvHOnsXjQ==" author="UkM1U0lNUAPpA1/JPr8OGgW8XaCBrlY9kIkwV9tp7cRE3ZGtzIB1T5KkBKI7jsSLJTkin28g59B2VTEydbe8BA==" url="UkM1U0lNUAPf11FkdTj2TG+sb05knjf0x4GS8TaNtIyNIR01U41Hn5TCme+TxEnP8sbbc2C4ZgFLPO6PHTwcxA==" tags="UkM1U0lNUAM88KGlMyYxE2jGYYHAu7ULs9hjKf9Wm/o5oBnZlHPMg25ln8OioXw0ZudLpMl+D/dhUigPmxqVh4PQkdYduHSM" ctime="20200227221647" dir="1582831007apy4pnrtpl" file="text.html" crypt="1" />
-																																																																																																																																  
       </recordtable>
       <node crypt="1" icon="UkM1U0lNUAOYuLPFSMsGcwQKjl9ic6uf0a3bPXcBcLdz4FsYEoxGj+EHqe5us7sVPTl/hcVFwI8fg/VhH+bpHIh358udluCi/U4LWc/hznUsinE6/WlakA==" id="1581445750f008ikdf0s" name="UkM1U0lNUANxk2653mxXrcdcQpKKFdZexreC0BRvCTEvK/H0ZLGfB4EaKvbnJg3I3aeFcobZq66ykXU174v3VSOEdN3Lul4EsqKM/z0UnC8=">
         <recordtable>
@@ -163,7 +162,7 @@
         </node>
         <node crypt="" id="1575394383l7apza5xdj" name="Паукообразные">
           <recordtable>
-            <record id="157539708748vqya3irp" name="Poecilotheria metallica" author="" url="" tags="Пауки" ctime="20191203211807" dir="1575397087s5n2clumdf" file="text.html" />
+            <record id="157539708748vqya3irp" name="Poecilotheria metallica" author="Вики" url="https://ru.wikipedia.org/wiki/Poecilotheria_metallica" tags="Пауки, Metallica" ctime="20191203211807" dir="1575397087s5n2clumdf" file="text.html" />
           </recordtable>
         </node>
         <node crypt="" id="1575394391xwaho5jza0" name="Ракообразные" />
@@ -237,14 +236,13 @@
         </record>
         <record id="1554803634c4blsrbv0e" name="Как одно изменение конфигурации PostgreSQL улучшило производительность медленных запросов в 50 раз" author="автор" url="http://url_ветки" tags="" ctime="20191204090113" dir="1554803634dcwxqwqssk" file="text.html" />
         <record id="158274313620f29npktw" name="Ттттест 123" author="author 967520308," url="http://url967520308.com." tags="new record, tag 967520308." ctime="20200226215216" dir="1582743136n9iulb6ssy" file="text.html" />
-        <record id="1582824671az7tgm5lla" name="record 1074546238." author="author 1074546238" url="http://url1074546238.com" tags="new record , tag 1074546238, тэг" ctime="20200227203111" dir="1582824671hjdw5ooyfu" file="text.html" />
+        <record id="1582824671az7tgm5lla" name="Без каталога" author="author 1074546238" url="http://url1074546238.com" tags="new record , tag 1074546238, тэг" ctime="20200227203111" dir="1582824671hjdw5ooyfu" file="text.html" />
         <record id="15846394004lqekpeotr" name="3 тро тро 3" author="Ар" url="ур" tags="м, р, н, тро, тро" ctime="20200319203640" dir="1584639400g7i7lubqbs" file="text.html" />
         <record id="15848826990fnogkisro" name="666" author="author 653239208" url="http://url653239208.com" tags="new record , tag 653239208" ctime="20200322161139" dir="1584882699imbfkkc813" file="text.html" />
-       <record id="158274313620f29npktw" name="record 967520308" author="author 967520308" url="http://url967520308.com" tags="new record , tag 967520308" ctime="20200226215216" dir="1582743136n9iulb6ssy" file="text.html" />
+        <record id="158274313620f29npktw" name="record 967520308" author="author 967520308" url="http://url967520308.com" tags="new record , tag 967520308" ctime="20200226215216" dir="1582743136n9iulb6ssy" file="text.html" />
         <record id="15828207049k5w57649v" name="record 344903353" author="author 344903353" url="http://url344903353.com" tags="new record , tag 344903353" ctime="20200227192504" dir="1582820704t0svg3qtii" file="text.html" />
-        <record id="1582824671az7tgm5lla" name="record 1074546238" author="author 1074546238" url="http://url1074546238.com" tags="new record , tag 1074546238" ctime="20200227203111" dir="1582824671hjdw5ooyfu" file="text.html" />
         <record id="1582914632en058b3o3q" name="record 1916137986" author="author 1916137986" url="http://url1916137986.com" tags="new record , tag 1916137986" ctime="20200228213032" dir="1582914632zzek2is1yb" file="text.html" />
-	  </recordtable>
-	</node>	
+      </recordtable>
+    </node>
   </content>
 </root>

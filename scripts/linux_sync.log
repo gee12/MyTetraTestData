@@ -1411,3 +1411,28 @@ updating local tracking ref 'refs/remotes/origin/master'
 M	scripts/linux_sync.log
 22.04.2020 07:57:53 === Command "git add ."
 22.04.2020 07:57:53 === Command "git commit"
+[master 0aca5aa] Changes from Linux - 22.04.2020\ 07:57:53
+ 1 file changed, 17 insertions(+)
+22.04.2020 07:57:53 === Command "git pull"
+Из https://github.com/gee12/MyTetraTestData
+   e236fca..e7847fb  master     -> origin/master
+Merge made by the 'recursive' strategy.
+ base/1575397087s5n2clumdf/text.html |   9 +-
+ base/1582743136n9iulb6ssy/text.html |   4 +
+ base/1584882699imbfkkc813/text.html |   3 +-
+ mytetra.xml                         | 496 ++++++++++++++++++------------------
+ 4 files changed, 259 insertions(+), 253 deletions(-)
+22.04.2020 07:57:55 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+POST git-receive-pack (1017 bytes)
+To https://github.com/gee12/MyTetraTestData.git
+   e7847fb..ff1c6f7  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+24.04.2020 08:42:07 === ===============================================
+24.04.2020 08:42:07 === Changes from Linux
+24.04.2020 08:42:07 === Command "git diff"
+M	mytetra.xml
+M	scripts/linux_sync.log
+24.04.2020 08:42:07 === Command "git add ."
+24.04.2020 08:42:07 === Command "git commit"

@@ -1592,3 +1592,48 @@ M	mytetra.xml
 M	scripts/linux_sync.log
 17.05.2020 09:29:45 === Command "git add ."
 17.05.2020 09:29:47 === Command "git commit"
+[master 962f3e3] Changes from Linux - 17.05.2020\ 09:29:47
+ 32 files changed, 95 insertions(+), 47 deletions(-)
+ rewrite base/1575397589s5nje6zio0/text.html (100%)
+ rewrite base/1581360276xqzpfbm1je/15814498732i97dzdkto.jpg (99%)
+ rewrite base/1581360276xqzpfbm1je/15814498734k5e5athz1.jpg (98%)
+ rewrite base/1581360276xqzpfbm1je/1581449873bdl6ilv451.jpg (96%)
+ rewrite base/1581360276xqzpfbm1je/1581449873hkxcndhmul.jpg (99%)
+ rewrite base/1581360276xqzpfbm1je/1581449873hqh1lwf4jf.jpg (78%)
+ rewrite base/1581360276xqzpfbm1je/1581449873uz1ylu3gtq.jpg (96%)
+ rewrite base/1581360276xqzpfbm1je/1581449873z5f2pbks2a.jpg (80%)
+ rewrite base/1581360276xqzpfbm1je/158144987400dpujfcrg.jpg (96%)
+ rewrite base/1581360276xqzpfbm1je/15814498740sng7zpni2.jpg (96%)
+ rewrite base/1581360276xqzpfbm1je/15814498741dyrj6jvj3.jpeg (89%)
+ rewrite base/1581360276xqzpfbm1je/15814498741e2althppt.jpg (99%)
+ rewrite base/1581360276xqzpfbm1je/15814498745diuh4tkjq.png (94%)
+ rewrite base/1581360276xqzpfbm1je/15814498747vz6mknyx4.jpg (97%)
+ rewrite base/1581360276xqzpfbm1je/1581449874e40fy4j7vn.jpg (98%)
+ rewrite base/1581360276xqzpfbm1je/1581449874fjoyecqht1.jpg (99%)
+ rewrite base/1581360276xqzpfbm1je/1581449874fz87t2shri.jpg (99%)
+ rewrite base/1581360276xqzpfbm1je/1581449874gvoo2irm5o.jpg (96%)
+ rewrite base/1581360276xqzpfbm1je/1581449874jp6eoiteyp.jpg (99%)
+ rewrite base/1581360276xqzpfbm1je/text.html (100%)
+ rewrite base/1581445839xa1yjpew3c/text.html (100%)
+ rewrite base/1581451612t9vlb7iokx/text.html (100%)
+ rewrite base/1582828540y5m70f9kcf/text.html (100%)
+ rewrite base/15828291230km7s2sizm/text.html (100%)
+ rewrite base/1582829977c89anlts7n/text.html (100%)
+ rewrite base/1582830269emrjyh73bh/text.html (100%)
+ rewrite base/1582831007apy4pnrtpl/text.html (100%)
+ rewrite database.ini (93%)
+17.05.2020 09:29:47 === Command "git pull"
+Уже обновлено.
+17.05.2020 09:29:48 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+POST git-receive-pack (chunked)
+To https://github.com/gee12/MyTetraTestData.git
+   7fd1422..962f3e3  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+17.05.2020 09:30:16 === ===============================================
+17.05.2020 09:30:16 === Changes from Linux
+17.05.2020 09:30:16 === Command "git diff"
+M	scripts/linux_sync.log
+17.05.2020 09:30:16 === Command "git add ."
+17.05.2020 09:30:16 === Command "git commit"

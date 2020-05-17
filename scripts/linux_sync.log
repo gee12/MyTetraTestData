@@ -1747,3 +1747,17 @@ error: не удалось отправить некоторые ссылки в
 M	scripts/linux_sync.log
 17.05.2020 09:34:05 === Command "git add ."
 17.05.2020 09:34:05 === Command "git commit"
+[master 49761b3] Changes from Linux - 17.05.2020\ 09:34:05
+ 1 file changed, 21 insertions(+)
+17.05.2020 09:34:05 === Command "git pull"
+Уже обновлено.
+17.05.2020 09:34:06 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+POST git-receive-pack (1462 bytes)
+
+17.05.2020 09:34:10 === ===============================================
+17.05.2020 09:34:10 === Changes from Linux
+17.05.2020 09:34:10 === Command "git diff"
+M	scripts/linux_sync.log
+17.05.2020 09:34:10 === Command "git add ."
+17.05.2020 09:34:10 === Command "git commit"

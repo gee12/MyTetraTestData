@@ -2035,3 +2035,42 @@ M	mytetra.xml
 M	scripts/linux_sync.log
 17.05.2020 18:22:24 === Command "git add ."
 17.05.2020 18:22:27 === Command "git commit"
+[master 74f5aa2] Changes from Linux - 17.05.2020\ 18:22:27
+ 29 files changed, 80 insertions(+), 30 deletions(-)
+ rewrite base/158136021389o4mnhsje/text.html (69%)
+ rewrite base/1581360234dk7yernvxc/15813607820028o8lblw.jpg (98%)
+ rewrite base/1581360234dk7yernvxc/15813607821idg1l5p0m.jpg (80%)
+ rewrite base/1581360234dk7yernvxc/15813607823ksx0uy5zy.jpg (98%)
+ rewrite base/1581360234dk7yernvxc/15813607824cormjsgyd.jpg (97%)
+ rewrite base/1581360234dk7yernvxc/15813607826w1ejerkaj.jpg (96%)
+ rewrite base/1581360234dk7yernvxc/158136078294g21hcz2b.jpg (96%)
+ rewrite base/1581360234dk7yernvxc/15813607829s3s7yplaq.png (94%)
+ rewrite base/1581360234dk7yernvxc/1581360782bp7uvkdflw.jpg (96%)
+ rewrite base/1581360234dk7yernvxc/1581360782c8dngv93c7.jpg (98%)
+ rewrite base/1581360234dk7yernvxc/1581360782cnht5zahys.jpg (99%)
+ rewrite base/1581360234dk7yernvxc/1581360782du3ffxxb1i.jpeg (88%)
+ rewrite base/1581360234dk7yernvxc/1581360782jui7ll6d14.jpg (99%)
+ rewrite base/1581360234dk7yernvxc/1581360782olam9w7f98.jpg (97%)
+ rewrite base/1581360234dk7yernvxc/1581360782ozjpd34k3u.jpg (96%)
+ rewrite base/1581360234dk7yernvxc/1581360782pkt8sh6h2g.jpg (98%)
+ rewrite base/1581360234dk7yernvxc/1581360782qd886d7wbl.jpg (98%)
+ rewrite base/1581360234dk7yernvxc/1581360782savsi6nhy5.jpg (99%)
+ rewrite base/1581360234dk7yernvxc/1581360782sbm5e2gnls.jpg (78%)
+ rewrite base/1581360234dk7yernvxc/text.html (100%)
+ rewrite base/1581360249l2b2d3w0yc/text.html (100%)
+ rewrite base/1581360319me9ky6dbhu/text.html (100%)
+ rewrite base/1581360341npil80x9qy/text.html (100%)
+ rewrite base/158136036617vrqvx9so/text.html (100%)
+ rewrite base/158136089869yhlqgsav/text.html (99%)
+ rewrite base/1589728864dkacnt5p0m/text.html (100%)
+17.05.2020 18:22:27 === Command "git pull"
+Уже обновлено.
+17.05.2020 18:22:28 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+
+17.05.2020 18:22:30 === ===============================================
+17.05.2020 18:22:30 === Changes from Linux
+17.05.2020 18:22:30 === Command "git diff"
+M	scripts/linux_sync.log
+17.05.2020 18:22:30 === Command "git add ."
+17.05.2020 18:22:30 === Command "git commit"

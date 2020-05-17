@@ -1985,3 +1985,53 @@ POST git-receive-pack (2329 bytes)
 M	scripts/linux_sync.log
 17.05.2020 18:21:17 === Command "git add ."
 17.05.2020 18:21:17 === Command "git commit"
+[master d5a2019] Changes from Linux - 17.05.2020\ 18:21:17
+ 1 file changed, 15 insertions(+)
+17.05.2020 18:21:17 === Command "git pull"
+To https://github.com/gee12/MyTetraTestData.git
+   ce73c8b..eca3b38  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+error: cannot lock ref 'refs/remotes/origin/master': is at eca3b384d1353238e31a50a8eb191f857c9e6e8d but expected ce73c8bb244cb82b5ca65b189390d4dad0befbd5
+Из https://github.com/gee12/MyTetraTestData
+ ! ce73c8b..eca3b38  master     -> origin/master  (не удалось обновить локальную ссылку)
+17.05.2020 18:21:18 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+POST git-receive-pack (763 bytes)
+To https://github.com/gee12/MyTetraTestData.git
+   eca3b38..d5a2019  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+17.05.2020 18:22:23 === ===============================================
+17.05.2020 18:22:23 === Changes from Linux
+17.05.2020 18:22:23 === Command "git diff"
+M	base/158136021389o4mnhsje/text.html
+M	base/1581360234dk7yernvxc/15813607820028o8lblw.jpg
+M	base/1581360234dk7yernvxc/15813607821idg1l5p0m.jpg
+M	base/1581360234dk7yernvxc/15813607823ksx0uy5zy.jpg
+M	base/1581360234dk7yernvxc/15813607824cormjsgyd.jpg
+M	base/1581360234dk7yernvxc/15813607826w1ejerkaj.jpg
+M	base/1581360234dk7yernvxc/158136078294g21hcz2b.jpg
+M	base/1581360234dk7yernvxc/15813607829s3s7yplaq.png
+M	base/1581360234dk7yernvxc/1581360782bp7uvkdflw.jpg
+M	base/1581360234dk7yernvxc/1581360782c8dngv93c7.jpg
+M	base/1581360234dk7yernvxc/1581360782cnht5zahys.jpg
+M	base/1581360234dk7yernvxc/1581360782du3ffxxb1i.jpeg
+M	base/1581360234dk7yernvxc/1581360782jui7ll6d14.jpg
+M	base/1581360234dk7yernvxc/1581360782olam9w7f98.jpg
+M	base/1581360234dk7yernvxc/1581360782ozjpd34k3u.jpg
+M	base/1581360234dk7yernvxc/1581360782pkt8sh6h2g.jpg
+M	base/1581360234dk7yernvxc/1581360782qd886d7wbl.jpg
+M	base/1581360234dk7yernvxc/1581360782savsi6nhy5.jpg
+M	base/1581360234dk7yernvxc/1581360782sbm5e2gnls.jpg
+M	base/1581360234dk7yernvxc/text.html
+M	base/1581360249l2b2d3w0yc/15817688908oh3hovqfa.zip
+M	base/1581360249l2b2d3w0yc/text.html
+M	base/1581360319me9ky6dbhu/text.html
+M	base/1581360341npil80x9qy/text.html
+M	base/158136036617vrqvx9so/text.html
+M	base/158136089869yhlqgsav/text.html
+M	base/1589728864dkacnt5p0m/text.html
+M	mytetra.xml
+M	scripts/linux_sync.log
+17.05.2020 18:22:24 === Command "git add ."
+17.05.2020 18:22:27 === Command "git commit"

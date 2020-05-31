@@ -2430,3 +2430,20 @@ M	database.ini
 M	scripts/linux_sync.log
 31.05.2020 19:43:13 === Command "git add ."
 31.05.2020 19:43:13 === Command "git commit"
+[master c3b7914] Changes from Linux - 31.05.2020\ 19:43:13
+ 2 files changed, 23 insertions(+), 1 deletion(-)
+31.05.2020 19:43:13 === Command "git pull"
+Уже обновлено.
+31.05.2020 19:43:14 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+POST git-receive-pack (1892 bytes)
+To https://github.com/gee12/MyTetraTestData.git
+   3dc25cf..c3b7914  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+31.05.2020 19:43:26 === ===============================================
+31.05.2020 19:43:27 === Changes from Linux
+31.05.2020 19:43:27 === Command "git diff"
+M	scripts/linux_sync.log
+31.05.2020 19:43:27 === Command "git add ."
+31.05.2020 19:43:27 === Command "git commit"

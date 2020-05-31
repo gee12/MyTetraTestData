@@ -2408,3 +2408,25 @@ M	scripts/linux_sync.log
 M	scripts/linux_sync.log
 31.05.2020 19:40:43 === Command "git add ."
 31.05.2020 19:40:44 === Command "git commit"
+[master e9be784] Changes from Linux - 31.05.2020\ 19:40:44
+ 1 file changed, 69 insertions(+)
+31.05.2020 19:40:44 === Command "git pull"
+POST git-receive-pack (chunked)
+Уже обновлено.
+31.05.2020 19:40:44 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+POST git-receive-pack (chunked)
+To https://github.com/gee12/MyTetraTestData.git
+   3e35095..3dc25cf  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+To https://github.com/gee12/MyTetraTestData.git
+ ! [remote rejected] master -> master (cannot lock ref 'refs/heads/master': is at 3dc25cf58f04f8b2d3b3c73cad1fc4b426050c2e but expected 3e350957e9f5a3e3e305b5f817731ae228b91a24)
+error: не удалось отправить некоторые ссылки в «https://github.com/gee12/MyTetraTestData.git»
+
+31.05.2020 19:43:13 === ===============================================
+31.05.2020 19:43:13 === Changes from Linux
+31.05.2020 19:43:13 === Command "git diff"
+M	database.ini
+M	scripts/linux_sync.log
+31.05.2020 19:43:13 === Command "git add ."
+31.05.2020 19:43:13 === Command "git commit"

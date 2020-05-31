@@ -2339,3 +2339,72 @@ M	mytetra.xml
 M	scripts/linux_sync.log
 31.05.2020 19:40:33 === Command "git add ."
 31.05.2020 19:40:35 === Command "git commit"
+[master 3dc25cf] Changes from Linux - 31.05.2020\ 19:40:35
+ 59 files changed, 160 insertions(+), 81 deletions(-)
+ rewrite base/1575397560xx7xs0gt4o/text.html (69%)
+ rewrite base/1575397589s5nje6zio0/text.html (100%)
+ rewrite base/158136021389o4mnhsje/text.html (69%)
+ copy base/{1581360276xqzpfbm1je/1581449874e40fy4j7vn.jpg => 1581360234dk7yernvxc/15813607820028o8lblw.jpg} (100%)
+ copy base/{1581360276xqzpfbm1je/1581449873z5f2pbks2a.jpg => 1581360234dk7yernvxc/15813607821idg1l5p0m.jpg} (100%)
+ copy base/{1581360276xqzpfbm1je/15814498732i97dzdkto.jpg => 1581360234dk7yernvxc/15813607823ksx0uy5zy.jpg} (100%)
+ copy base/{1581360276xqzpfbm1je/15814498747vz6mknyx4.jpg => 1581360234dk7yernvxc/15813607824cormjsgyd.jpg} (100%)
+ copy base/{1581360276xqzpfbm1je/1581449873uz1ylu3gtq.jpg => 1581360234dk7yernvxc/15813607826w1ejerkaj.jpg} (100%)
+ copy base/{1581360276xqzpfbm1je/1581449874gvoo2irm5o.jpg => 1581360234dk7yernvxc/158136078294g21hcz2b.jpg} (100%)
+ copy base/{1581360276xqzpfbm1je/15814498745diuh4tkjq.png => 1581360234dk7yernvxc/15813607829s3s7yplaq.png} (100%)
+ copy base/{1581360276xqzpfbm1je/158144987400dpujfcrg.jpg => 1581360234dk7yernvxc/1581360782bp7uvkdflw.jpg} (100%)
+ copy base/{1581360276xqzpfbm1je/15814498734k5e5athz1.jpg => 1581360234dk7yernvxc/1581360782c8dngv93c7.jpg} (100%)
+ copy base/{1581360276xqzpfbm1je/15814498741e2althppt.jpg => 1581360234dk7yernvxc/1581360782cnht5zahys.jpg} (100%)
+ copy base/{1581360276xqzpfbm1je/15814498741dyrj6jvj3.jpeg => 1581360234dk7yernvxc/1581360782du3ffxxb1i.jpeg} (100%)
+ copy base/{1581360276xqzpfbm1je/1581449874jp6eoiteyp.jpg => 1581360234dk7yernvxc/1581360782jui7ll6d14.jpg} (100%)
+ copy base/{1581360276xqzpfbm1je/15814498740sng7zpni2.jpg => 1581360234dk7yernvxc/1581360782olam9w7f98.jpg} (100%)
+ copy base/{1581360276xqzpfbm1je/1581449873bdl6ilv451.jpg => 1581360234dk7yernvxc/1581360782ozjpd34k3u.jpg} (100%)
+ copy base/{1581360276xqzpfbm1je/1581449874fjoyecqht1.jpg => 1581360234dk7yernvxc/1581360782pkt8sh6h2g.jpg} (100%)
+ copy base/{1581360276xqzpfbm1je/1581449874fz87t2shri.jpg => 1581360234dk7yernvxc/1581360782qd886d7wbl.jpg} (100%)
+ copy base/{1581360276xqzpfbm1je/1581449873hkxcndhmul.jpg => 1581360234dk7yernvxc/1581360782savsi6nhy5.jpg} (100%)
+ copy base/{1581360276xqzpfbm1je/1581449873hqh1lwf4jf.jpg => 1581360234dk7yernvxc/1581360782sbm5e2gnls.jpg} (100%)
+ copy base/{1575397589s5nje6zio0 => 1581360234dk7yernvxc}/text.html (100%)
+ copy base/{1581360276xqzpfbm1je => 1581360249l2b2d3w0yc}/text.html (100%)
+ rewrite base/1581360276xqzpfbm1je/15814498732i97dzdkto.jpg (98%)
+ rewrite base/1581360276xqzpfbm1je/15814498734k5e5athz1.jpg (98%)
+ rewrite base/1581360276xqzpfbm1je/1581449873bdl6ilv451.jpg (96%)
+ rewrite base/1581360276xqzpfbm1je/1581449873hkxcndhmul.jpg (100%)
+ rewrite base/1581360276xqzpfbm1je/1581449873hqh1lwf4jf.jpg (78%)
+ rewrite base/1581360276xqzpfbm1je/1581449873uz1ylu3gtq.jpg (95%)
+ rewrite base/1581360276xqzpfbm1je/1581449873z5f2pbks2a.jpg (80%)
+ rewrite base/1581360276xqzpfbm1je/158144987400dpujfcrg.jpg (97%)
+ rewrite base/1581360276xqzpfbm1je/15814498740sng7zpni2.jpg (96%)
+ rewrite base/1581360276xqzpfbm1je/15814498741dyrj6jvj3.jpeg (89%)
+ rewrite base/1581360276xqzpfbm1je/15814498741e2althppt.jpg (99%)
+ rewrite base/1581360276xqzpfbm1je/15814498745diuh4tkjq.png (94%)
+ rewrite base/1581360276xqzpfbm1je/15814498747vz6mknyx4.jpg (97%)
+ rewrite base/1581360276xqzpfbm1je/1581449874e40fy4j7vn.jpg (98%)
+ rewrite base/1581360276xqzpfbm1je/1581449874fjoyecqht1.jpg (98%)
+ rewrite base/1581360276xqzpfbm1je/1581449874fz87t2shri.jpg (99%)
+ rewrite base/1581360276xqzpfbm1je/1581449874gvoo2irm5o.jpg (95%)
+ rewrite base/1581360276xqzpfbm1je/1581449874jp6eoiteyp.jpg (99%)
+ rewrite base/1581360276xqzpfbm1je/text.html (100%)
+ copy base/{1582828540y5m70f9kcf => 1581360319me9ky6dbhu}/text.html (61%)
+ mode change 100755 => 100644
+ copy base/{1589728864dkacnt5p0m => 1581360341npil80x9qy}/text.html (69%)
+ rewrite base/158136036617vrqvx9so/text.html (100%)
+ rewrite base/158136089869yhlqgsav/text.html (99%)
+ rewrite base/1581445839xa1yjpew3c/text.html (100%)
+ rewrite base/1581451612t9vlb7iokx/text.html (100%)
+ rewrite base/1582828540y5m70f9kcf/text.html (100%)
+ rewrite base/15828291230km7s2sizm/text.html (100%)
+ rewrite base/1582829977c89anlts7n/text.html (100%)
+ rewrite base/1582830269emrjyh73bh/text.html (100%)
+ rewrite base/1582831007apy4pnrtpl/text.html (100%)
+ rewrite base/1589728864dkacnt5p0m/text.html (100%)
+ rewrite database.ini (93%)
+31.05.2020 19:40:38 === Command "git pull"
+Уже обновлено.
+31.05.2020 19:40:38 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+
+31.05.2020 19:40:43 === ===============================================
+31.05.2020 19:40:43 === Changes from Linux
+31.05.2020 19:40:43 === Command "git diff"
+M	scripts/linux_sync.log
+31.05.2020 19:40:43 === Command "git add ."
+31.05.2020 19:40:44 === Command "git commit"

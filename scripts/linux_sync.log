@@ -2594,3 +2594,23 @@ error: не удалось отправить некоторые ссылки в
 M	scripts/linux_sync.log
 01.06.2020 21:37:26 === Command "git add ."
 01.06.2020 21:37:26 === Command "git commit"
+[master 8038262] Changes from Linux - 01.06.2020\ 21:37:26
+ 1 file changed, 21 insertions(+)
+01.06.2020 21:37:26 === Command "git pull"
+Из https://github.com/gee12/MyTetraTestData
+   c08f212..61072d5  master     -> origin/master
+Уже обновлено.
+01.06.2020 21:37:29 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+POST git-receive-pack (823 bytes)
+To https://github.com/gee12/MyTetraTestData.git
+   61072d5..8038262  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+01.06.2020 21:38:29 === ===============================================
+01.06.2020 21:38:29 === Changes from Linux
+01.06.2020 21:38:29 === Command "git diff"
+M	database.ini
+M	scripts/linux_sync.log
+01.06.2020 21:38:29 === Command "git add ."
+01.06.2020 21:38:29 === Command "git commit"

@@ -2614,3 +2614,20 @@ M	database.ini
 M	scripts/linux_sync.log
 01.06.2020 21:38:29 === Command "git add ."
 01.06.2020 21:38:29 === Command "git commit"
+[master 1736bed] Changes from Linux - 01.06.2020\ 21:38:29
+ 2 files changed, 21 insertions(+), 1 deletion(-)
+01.06.2020 21:38:29 === Command "git pull"
+Уже обновлено.
+01.06.2020 21:38:30 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+POST git-receive-pack (934 bytes)
+To https://github.com/gee12/MyTetraTestData.git
+   8038262..1736bed  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+01.06.2020 21:38:41 === ===============================================
+01.06.2020 21:38:41 === Changes from Linux
+01.06.2020 21:38:41 === Command "git diff"
+M	scripts/linux_sync.log
+01.06.2020 21:38:41 === Command "git add ."
+01.06.2020 21:38:41 === Command "git commit"

@@ -2857,3 +2857,33 @@ error: не удалось отправить некоторые ссылки в
 M	scripts/linux_sync.log
 04.07.2020 19:02:27 === Command "git add ."
 04.07.2020 19:02:27 === Command "git commit"
+[master 83bd241] Changes from Linux - 04.07.2020\ 19:02:27
+ 2 files changed, 60 insertions(+)
+ create mode 100644 scripts/android_sync.sh
+04.07.2020 19:02:27 === Command "git pull"
+Уже обновлено.
+04.07.2020 19:02:28 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+POST git-receive-pack (1753 bytes)
+To https://github.com/gee12/MyTetraTestData.git
+   9e464ab..83bd241  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+date: лишний операнд «%T»
+По команде «date --help» можно получить дополнительную информацию.
+ === ===============================================
+date: лишний операнд «%T»
+По команде «date --help» можно получить дополнительную информацию.
+ === Changes from Linux
+date: лишний операнд «%T»
+По команде «date --help» можно получить дополнительную информацию.
+ === Command "git diff"
+M	mytetra.xml
+M	scripts/linux_sync.log
+M	scripts/linux_sync.sh
+date: лишний операнд «%T»
+По команде «date --help» можно получить дополнительную информацию.
+ === Command "git add ."
+date: лишний операнд «%T»
+По команде «date --help» можно получить дополнительную информацию.
+ === Command "git commit"

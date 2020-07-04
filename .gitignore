@@ -1,4 +1,4 @@
 #.gitignore
 #scripts/linux_sync.log
 #scripts/windows_sync.log
-*.log
+scripts/*.log

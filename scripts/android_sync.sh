@@ -7,7 +7,7 @@ LOGFILE="$DATADIR/scripts/android_sync.log"
 
 # функции
 log(){
-   echo "$(date +""%d.%m.%Y %T"") === $@"
+   echo "$(date +""%d.%m.%Y\ %T"") === $@"
 }
 
 # перенаправляем вывод
@@ -33,7 +33,7 @@ curdate=$(date +"%d.%m.%Y %T")
 git commit -a -v -m "Changes from Android - $curdate"
 
 log Command \"git pull\"
-git pull origin
+git pull origin master
 
 log Command \"git push\"
 git push -v origin master

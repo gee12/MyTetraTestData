@@ -7,7 +7,7 @@ LOGFILE="$DATADIR/scripts/android_sync.log"
 
 # функции
 log(){
-   echo "$(date +""%d.%m.%Y %T"") === $@"
+   echo "$(date +""%d.%m.%Y\ %T"") === $@"
 }
 
 # перенаправляем вывод

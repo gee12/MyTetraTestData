@@ -2941,3 +2941,20 @@ M	scripts/linux_sync.log
 M	scripts/linux_sync.sh
 04.07.2020 19:36:23 === Command "git add ."
 04.07.2020 19:36:23 === Command "git commit"
+[master 7069a68] Changes from Linux - 04.07.2020 19:36:23
+ 2 files changed, 24 insertions(+), 2 deletions(-)
+04.07.2020 19:36:23 === Command "git pull"
+Уже обновлено.
+04.07.2020 19:36:24 === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+POST git-receive-pack (800 bytes)
+To https://github.com/gee12/MyTetraTestData.git
+   3e15c26..7069a68  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+04.07.2020 20:10:41 === ===============================================
+04.07.2020 20:10:41 === Changes from Linux
+04.07.2020 20:10:41 === Command "git diff"
+M	scripts/linux_sync.log
+04.07.2020 20:10:41 === Command "git add ."
+04.07.2020 20:10:41 === Command "git commit"

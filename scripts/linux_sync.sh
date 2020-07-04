@@ -28,7 +28,7 @@ log Command \"git add .\"
 git add .
 
 log Command \"git commit\"
-curdate=$(date +"%d.%m.%Y %T")
+curdate=$(date +"%d.%m.%Y\ %T")
 git commit -a -v -m "Changes from Linux - $curdate"
 
 log Command \"git pull\"

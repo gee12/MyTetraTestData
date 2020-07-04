@@ -2887,3 +2887,35 @@ date: лишний операнд «%T»
 date: лишний операнд «%T»
 По команде «date --help» можно получить дополнительную информацию.
  === Command "git commit"
+[master 2a9b1eb] Changes from Linux - 04.07.2020 19:34:37
+ 3 files changed, 33 insertions(+), 3 deletions(-)
+date: лишний операнд «%T»
+По команде «date --help» можно получить дополнительную информацию.
+ === Command "git pull"
+Уже обновлено.
+date: лишний операнд «%T»
+По команде «date --help» можно получить дополнительную информацию.
+ === Command "git push"
+Отправка в https://github.com/gee12/MyTetraTestData.git
+POST git-receive-pack (1029 bytes)
+To https://github.com/gee12/MyTetraTestData.git
+   83bd241..2a9b1eb  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+date: лишний операнд «%T»
+По команде «date --help» можно получить дополнительную информацию.
+ === ===============================================
+date: лишний операнд «%T»
+По команде «date --help» можно получить дополнительную информацию.
+ === Changes from Linux
+date: лишний операнд «%T»
+По команде «date --help» можно получить дополнительную информацию.
+ === Command "git diff"
+M	scripts/linux_sync.log
+M	scripts/linux_sync.sh
+date: лишний операнд «%T»
+По команде «date --help» можно получить дополнительную информацию.
+ === Command "git add ."
+date: лишний операнд «%T»
+По команде «date --help» можно получить дополнительную информацию.
+ === Command "git commit"

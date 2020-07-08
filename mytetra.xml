@@ -62,6 +62,7 @@
     <node crypt="" icon="/Gnome/color_gnome_2_appointment-soon.svg" id="1300000000aaaaaaaaa1" name="Много подветок">
       <recordtable>
         <record id="15813598943g8j6nd7uy" name="Просто запись" author="" url="" tags="" ctime="20200210213814" dir="15813598943el5yglr4m" file="text.html" />
+        <record id="1594215306fr362fp9fn" name="termux" author="" url="" tags="" ctime="20200708163506" dir="1594215306q8l95k86bf" file="text.html" />
       </recordtable>
       <node crypt="" icon="" id="1581359971346odjzphj" name="Подветка 1">
         <recordtable>

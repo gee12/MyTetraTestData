@@ -2,27 +2,23 @@
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><style type="text/css">
 p, li { white-space: pre-wrap; }
 </style></head><body style=" font-family:'DejaVu Sans'; font-size:11pt; font-weight:400; font-style:normal;">
-<p style=" margin-top:0px; margin-bottom:10px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'DejaVu Sans';">Yes, using the </span><a href="https://developer.android.com/studio/command-line/adb.html#am"><span style=" font-family:'DejaVu Sans'; text-decoration: underline; color:#3aabff;">am</span></a><span style=" font-family:'DejaVu Sans';"> (activity manager) command:</span></p>
-<p style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#f7f7f7;"><span style=" font-family:'monospace','monospace'; color:#d84141;">am start --user 0 -n com.package.name/com.package.name.ActivityName</span></p>
-<p style="-qt-paragraph-type:empty; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'DejaVu Sans'; background-color:#f7f7f7;"><br /></p>
-<p style=" margin-top:0px; margin-bottom:10px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'DejaVu Sans';">Example for Termux itself (bring it to foreground when e.g. ssh:ing in to the device):</span></p>
-<p style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#f7f7f7;"><span style=" font-family:'monospace','monospace'; color:#d84141;">am start --user 0 -n com.termux/com.termux.app.TermuxActivity</span></p>
-<p style="-qt-paragraph-type:empty; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'monospace','monospace'; background-color:#f7f7f7;"><br /></p>
-<hr />
-<p style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'monospace';">git pull --rebase</span></p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'DejaVu Sans';">Чтобы избавиться от мерж-коммита</span></p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'DejaVu Sans';"><br /></span></p>
-<hr />
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><a href="https://hide-info2020.blogspot.com/2020/04/termux.html?m=1"><span style=" font-family:'DejaVu Sans'; text-decoration: underline; color:#0000ff;">команды</span></a><span style=" font-family:'DejaVu Sans';"> termux<br /></span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Yes, using the <a href="https://developer.android.com/studio/command-line/adb.html#am"><span style=" text-decoration: underline; color:#0000ff;">am</span></a> (activity manager) command:</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#6a1009; background-color:#f7f7f7;">am start --user 0 -n com.package.name/com.package.name.ActivityName</span></p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'DejaVu Sans';"><br /></p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#6a1009;">extra-keys = [ \</span></p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#6a1009;"> ['HOME','ALT','TAB','CTRL','LEFT','RIGHT','DOWN','UP','END','DEL'] \</span></p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#6a1009;">]</span></p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'-apple-system','system-ui','BlinkMacSystemFont','Segoe UI','Roboto','Helvetica Neue','Arial','sans-serif'; font-size:14px; color:#1a1a1b;">
-
-<div class="md" style="box-sizing: border-box;">
-<img src="image1594216791eg0ugatfbl.png" width="100 height=" 1520"="">
-<img src="image1594216791any6sb42b4.png" width="100 height=" 1520"="" style="font-size: 11pt;"><br>
-</div><br>
-
-</body></html>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Example for Termux itself (bring it to foreground when e.g. ssh:ing in to the device):</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#6a1009; background-color:#f7f7f7;">am start --user 0 -n com.termux/com.termux.app.TermuxActivity</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" text-decoration: line-through; color:#000000; background-color:#f7f7f7;">--activity-brought-to-front</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>
+<hr />
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Чтобы избавиться от мерж-коммита</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#6a1009;">git pull --rebase</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#6a1009;"><br /></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#6a1009;"><br /></p>
+<hr />
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><a href="https://hide-info2020.blogspot.com/2020/04/termux.html?m=1"><span style=" font-family:'DejaVu Sans'; text-decoration: underline; color:#0000ff;">команды</span></a><span style=" font-family:'DejaVu Sans';"> termux<br /></span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'DejaVu Sans';"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'DejaVu Sans'; color:#6a1009;">extra-keys = [ \</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'DejaVu Sans'; color:#6a1009;"> ['HOME','ALT','TAB','CTRL','LEFT','RIGHT','DOWN','UP','END','DEL'] \</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'DejaVu Sans'; color:#6a1009;">]</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="image1594216791eg0ugatfbl.png" width="200" /><span style=" font-family:'DejaVu Sans';"> </span><img src="image1594216791any6sb42b4.png" width="200" /><span style=" font-family:'-apple-system','system-ui','BlinkMacSystemFont','Segoe UI','Roboto','Helvetica Neue','Arial','sans-serif'; font-size:14px; color:#1a1a1b;"><br /><br /></span></p></body></html>

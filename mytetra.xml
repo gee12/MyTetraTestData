@@ -253,8 +253,12 @@
     <record id="1596282869xvnaflk9d2" name="run_sync_app.sh" author="author 1842519461" url="http://url1842519461.com" tags="new record , tag 1842519461" ctime="20200801145429" dir="1596282869dodlyfhxka" file="text.html"/>
     <record id="1598104137fhed056rex" name="Сноуден" author="" url="" tags="" ctime="20200822164857" dir="1598104137e5ehe57x3o" file="text.html"/>
     <record id="15987745100l8rozbqti" name="Тест observer" author="" url="" tags="" ctime="20200830110150" dir="1598774510m3xmcc6tdg" file="text.html"/>
+<<<<<<< HEAD
     <record id="1598776045bmj0m6xsao" name="Тест observer 2" author="" url="" tags="" ctime="20200830112725" dir="15987760451rtxa9zgm8" file="text.html"/>
    </recordtable>   	
+=======
+   </recordtable>
+>>>>>>> 34d82324027420a9c74237e39f6b08686c03f48e
    <node crypt="1" icon="" id="1592142669d57myp5h1b" name="UkM1U0lNUANdfNIV0cVBQ1Ba1MJVzI9MgLEYBA260NDRVzN0JkVKPg4cGV8qvZFrit0vwvHrkB5sPiGG82jyrA==">
     <recordtable>
      <record id="1575397589ocqc9o6cpn" name="UkM1U0lNUAOKl2eO36R8JhDhbsiCKBdgw+MLAnKkX+1pVquivP6d1fQ42hHUVNk6d0u0p2h8z3SGoDeaQQxjRNF9RJKIO8HiPXPfp/luAHARZStSpU7PkygN0KoxWwnhsfGCaT94gyxBZbrSkg/qLw==" author="" url="" tags="UkM1U0lNUAMfMKCvuzcWSbm1XWImNYzVM+10YUOi5Q5syGkdjCJy56msR6MlFOusVZpEKQyW2+C9wZEm1GiyvJ1pDaC9vIq8" ctime="20200614165109" dir="1575397589s5nje6zio0" file="text.html" crypt="1">

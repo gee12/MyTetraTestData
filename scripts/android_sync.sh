@@ -3,6 +3,7 @@
 # переменные
 DATADIR=$1
 #DATADIR=$(pwd)
+GITDIR=$2
 LOGFILE="$DATADIR/scripts/android_sync.log"
 
 # функции
@@ -19,8 +20,8 @@ log "==============================================="
 log "Changes from Android"
 
 # выполнение команд
-#log Command \"cd $DATADIR\"
-cd $DATADIR
+#log Command \"cd $GITDIR\"
+cd $GITDIR
 
 log Command \"git diff\"
 git diff --name-status

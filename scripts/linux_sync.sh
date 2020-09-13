@@ -19,7 +19,7 @@ log "==============================================="
 log "Changes from Linux"
 
 # выполнение команд
-#log Command \"cd $DATADIR\"
+#log Command \"cd $GITDIR\"
 cd $GITDIR
 
 log Command \"git diff\"

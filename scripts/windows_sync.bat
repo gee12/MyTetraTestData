@@ -1,8 +1,8 @@
-@echo off
+﻿@echo off
 
 rem Переменные
 set DATADIR=%1
-set GITDIR=$2
+set GITDIR=%2
 set LOGFILE="%DATADIR%/scripts/windows_sync.log"
 
 rem Вступление

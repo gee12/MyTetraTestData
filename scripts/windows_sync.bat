@@ -1,4 +1,4 @@
-﻿@echo off
+@echo off
 
 rem Переменные
 set DATADIR=%1

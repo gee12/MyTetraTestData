@@ -140,7 +140,11 @@
             <file id="1575439412ylcqm9sqjy" fileName="Грибы" type="file" />
           </files>
         </record>
-        <record id="1601205458mfubxwvrns" name="Новая запись" author="П" url="р" tags="л" ctime="20200927141738" dir="1601205458gk56os3ioi" file="text.html" />
+        <record id="1601205458mfubxwvrns" name="Новая запись" author="П" url="р" tags="л" ctime="20200927141738" dir="1601205458gk56os3ioi" file="text.html">
+          <files>
+            <file id="1601280770c5h81zhyts" fileName="Bitrix24com.bitrix24.androidv5.2.6 (680).apk" type="file" />
+          </files>
+        </record>
       </recordtable>
     </node>
     <node crypt="" icon="/Gnome/color_gnome_2_emblem-default.svg" id="1575394172d3p6h9hnj2" name="Растения">

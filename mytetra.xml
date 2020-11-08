@@ -75,6 +75,7 @@
         </record>
         <record id="1599159382693fttrbnp" name="Наутилус Помпилиус - Прогулки по воде, аккорды для гитары" author="" url="" tags="" ctime="20200903215622" dir="15991593828wnyi7w668" file="text.html" />
         <record id="16001893246aifmqhei4" name="Град обреченный" author="" url="" tags="" ctime="20200915200204" dir="16001893244hhnr7ypsz" file="text.html" />
+        <record id="1604856758jewrobyowc" name="8 нояб. 20:32" author="" url="" tags="" ctime="20201108203238" dir="16048567581vamfq7a23" file="text.html" />
       </recordtable>
       <node crypt="" icon="" id="1581359971346odjzphj" name="Подветка 1">
         <recordtable>
@@ -170,7 +171,12 @@
         <record id="1603650300swr4ef6oz0" name="Новая запись - 2020.10.25 21:25:00" author="" url="" tags="" ctime="20201025212500" dir="1603650300qp57t9jxzc" file="text.html" />
         <record id="1603731212wr1k3074nw" name="Новая запись - 2020.10.26 19:53:32" author="" url="" tags="" ctime="20201026195332" dir="16037312123tvj9qt5nr" file="text.html" />
         <record id="1603825360obwqynrjmn" name="Новая запись - 2020.10.27 22:02:40" author="" url="" tags="" ctime="20201027220240" dir="1603825360p1x9m2aaos" file="text.html" />
-        <record id="1604183873xg55zod4gt" name="Hdd" author="" url="" tags="" ctime="20201101013753" dir="1604183873o6qoh0eql8" file="text.html" />
+        <record id="1604183873xg55zod4gt" name="Hdd" author="" url="" tags="" ctime="20201101013753" dir="1604183873o6qoh0eql8" file="text.html">
+          <files>
+            <file id="1604239282byr2qar3wi" fileName="IMG_20201101_145123.jpg" type="file" />
+            <file id="1604239415io97p1f1c8" fileName="image1604183898dcj09g8wgp.png" type="file" />
+          </files>
+        </record>
       </recordtable>
     </node>
     <node crypt="" icon="/Gnome/color_gnome_2_emblem-default.svg" id="1575394172d3p6h9hnj2" name="Растения">
@@ -424,5 +430,6 @@
       </node>
       <node crypt="" icon="" id="1599587380ls3thdbzrc" name="node 155" />
     </node>
+    <node crypt="" icon="" id="1604856951un503o4w2v" name="Временное" />
   </content>
 </root>

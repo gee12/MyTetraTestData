@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mytetradoc>
-<root>
+<root> 
  <format version="1" subversion="2"/>
  <content>
   <node crypt="1" icon="" id="15576541176s451inwvp" name="UkM1U0lNUANv2Ufq7pVPXLlIP6y64lX1OXU4kGk4Oq4bso0TAAhxU+mtxYgeY1XHI8MfBuX2DKigw+gHe2M4Jg==">
@@ -45,7 +45,6 @@
     </recordtable>
     <node crypt="1" icon="" id="1581445788norbuisoz4" name="UkM1U0lNUAPD1rnziMHHeYmrzUdi4xOByEpq4QQ8XcxzubTieIVVfoL6p2hdgC40qpPEg3oAlORGS/XFtyO+FQ==">
      <recordtable>
-      <record id="1581445839l288mvq9xf" name="UkM1U0lNUAO1PvAMTY+3mOnVaS3gxmqWHafftWTG1tITDyAXCEgzYwsfDyEuLIHKUb64a8vvmk2phlZqipjcWvYLR33rUW5LY8RVUfvzVBFdmLJRwNVnEfg3Wb02QIC8" author="" url="" tags="UkM1U0lNUAPh0+FirdwKZy6vQKUwK34/258yBYOIK/2UVeOVQP85U8en7Yv4OAflnRwxfLcvZDLv0Sjx22qzLI0Y73uK/HMYySkSTq8GxW0=" ctime="20200211213039" dir="1581445839xa1yjpew3c" file="text.html" crypt="1"/>
      </recordtable>
     </node>
     <node crypt="1" icon="" id="1581445793igisd7y7ow" name="UkM1U0lNUAPFEmEJApzi1XYIUsU27GeSqlBIWEbnOqgj/oaeZR0+URe0ueg7AGosOehqWb28ySDIS2W6wdMmbA=="/>
@@ -71,11 +70,8 @@
     <record id="1597478230l06a10zjsa" name="2020.08.15 10:57:10" author="" url="" tags="" ctime="20200815105710" dir="1597478230ifeqdcnuxa" file="text.html">
      <files>
       <file id="1597478230d2vz4d4m5s" fileName="IMG_20200814_230748_1.jpg" type="file"/>
-     </files>
-    </record>
-    <record id="1599159382693fttrbnp" name="Наутилус Помпилиус - Прогулки по воде, аккорды для гитары" author="" url="" tags="" ctime="20200903215622" dir="15991593828wnyi7w668" file="text.html"/>
-    <record id="16001893246aifmqhei4" name="Град обреченный" author="" url="" tags="" ctime="20200915200204" dir="16001893244hhnr7ypsz" file="text.html"/>
-    <record id="1604856758jewrobyowc" name="8 нояб. 20:32" author="" url="" tags="" ctime="20201108203238" dir="16048567581vamfq7a23" file="text.html"/>
+     </files> </record>
+    <record id="1599159382693fttrbnp" name="Наутилус Помпилиус - по воде, аккорды для гитары" author="" url="" tags="" ctime="20200903215622" dir="15991593828wnyi7w668" file="text.html"/> <record id="16001893246aifmqhei4" name="Град обреченный" author="" url="" tags="" ctime="20200915200204" dir="16001893244hhnr7ypsz" file="text.html"/><record id="1604856758jewrobyowc" name="8 нояб. 20:32" author="" url="" tags="" ctime="20201108203238" dir="16048567581vamfq7a23" file="text.html"/>
    </recordtable>
    <node crypt="" icon="" id="1581359971346odjzphj" name="Подветка 1">
     <recordtable>

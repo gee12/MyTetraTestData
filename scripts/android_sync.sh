@@ -7,7 +7,7 @@ GITDIR=$2
 LOGFILE="$DATADIR/scripts/android_sync.log"
 
 # функции
-log(){
+log() {
    echo "$(date +""%d.%m.%Y\ %T"") === $@"
 }
 

@@ -2,6 +2,7 @@
 
 rem Переменные
 set DATADIR=%1
+set GITDIR=%2
 set LOGFILE="%DATADIR%/scripts/windows_sync.log"
 
 rem Вступление
@@ -10,8 +11,8 @@ call :log "==============================================="
 call :log "Changes from Windows"
 
 rem Выполнение команд
-rem call :log "Command 'cd %DATADIR%'"
-cd /d %DATADIR%
+rem call :log "Command 'cd %GITDIR%'"
+cd /d %GITDIR%
 
 call :log "Command 'git diff'"
 git diff --name-status >>%LOGFILE% 2>>&1

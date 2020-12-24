@@ -2,6 +2,7 @@
 
 # переменные
 DATADIR=$1
+GITDIR=$2
 LOGFILE="$DATADIR/scripts/linux_sync.log"
 
 # функции
@@ -18,8 +19,8 @@ log "==============================================="
 log "Changes from Linux"
 
 # выполнение команд
-#log Command \"cd $DATADIR\"
-cd $DATADIR
+#log Command \"cd $GITDIR\"
+cd $GITDIR
 
 log Command \"git diff\"
 git diff --name-status
